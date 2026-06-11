@@ -1,0 +1,1031 @@
+Order_ID,Customer_Name,Product,Category,Quantity,Price,Order_Date,City
+ORD-0032,Manish Nair,Python Basics,Books,7.0,540.69,2023-02-15,Jaipur
+ORD-0110,Shreya Mishra,Protein Bar,Food,5.0,104.77,2023-11-17,Delhi
+ORD-0137,Vikram Reddy,Lamp,Home Decor,8.0,1206.76,2023-07-03,pink city
+ORD-0089,Kiran Agarwal,chips,Food,5.0,55.81,2023-03-08,Poona
+ORD-0919,Neha Chopra,PYTHON BASICS,Books,5.0,647.45,2023-09-07,Suart
+ORD-0854,Manish Kumar,smart watch,Electronics,6.0,8955.33,2023-06-06,Jaipur 
+ORD-0871,Pooja Agarwal,Chocolate,Food,9.0,144.3,2023-09-17,Suart
+ORD-0319,Ravi Kumar,,Electronics,6.0,717.54,2023-09-23,delhi
+ORD-0262,Manish Iyer,photo frame,Home Decor,5.0,458.81,2023-08-13,Pink City
+ORD-0536,Priya Rao,Art Book,Books,5.0,623.39,2023-03-16,Banglore
+ORD-0920,Deepa Rao,Plant Pot,Home Decor,7.0,312.21,2023-04-29,surat
+ORD-0597,Ananya Joshi,Sunglasses,Clothing,1.0,840.21,2023-05-16,hyderabad
+ORD-0077,Kiran Sharma,curtains,Home Decor,4.0,2162.76,2023-06-10,madras
+ORD-0108,Rajesh Malhotra,Cookies,Food,4.0,107.67,2023-12-13,surat
+ORD-0425,Neha Joshi,Novel,Books,6.0,260.18,2023-04-11,bengaluru
+ORD-0585,Amit Joshi,Speaker,Electronics,6.0,2600.05,2023-04-01,chennai
+ORD-0854,Manish Kumar,smart watch,Electronics,6.0,8955.33,2023-06-06,Jaipur 
+ORD-0665,Pooja Bose,tablet,Electronics,7.0,15849.63,2023-05-12,Pun
+ORD-0830,Deepa Bose,Camera,Electronics,1.0,34498.29,2023-10-27,amdavad
+ORD-0421,Ananya Patel,Protein Bar,Food,4.0,130.5,2023-07-29,madras
+ORD-0598,Rahul Bose,Handbag,Clothing,3.0,1803.39,2023-03-08,Chennai
+ORD-0459,Rajesh Mishra,Keyboard,Electronics,9.0,1300.34,2023-03-07,kolkata
+ORD-0313,Neha Patel,T-Shirt,Clothing,6.0,21.44,2023-09-26,Mumabi
+ORD-0650,Shreya Kapoor,Plant Pot,Home Decor,7.0,349.84,2023-02-28,bengaluru
+ORD-0366,Ravi Agarwal,Novel,Books,4.0,289.75,2023-08-17,Mumabi
+ORD-0322,Kavya Joshi,curtains,Home Decor,9.0,2128.76,2023-12-25,Pink City
+ORD-0630,Aarav Nair,Coffee,Food,5.0,370.29,2023-08-01,surat 
+ORD-0915,Kavya Pillai,Art Book,Books,6.0,558.59,2023-09-05,Ahmadabad
+ORD-0469,Suresh Nair,Tea,Food,10.0,183.42,2023-11-08,Bengaluru
+ORD-0599,Deepa Mishra,Python Basics,Books,6.0,544.61,2023-03-24,bangalore
+ORD-0395,Deepa Sharma,Mouse,Electronics,8.0,761.79,2023-06-19,Delhi
+ORD-0537,Priya Reddy,Shoes,Clothing,6.0,2762.24,2023-02-01,Mumabi
+ORD-0721,Shreya Pillai,Tea,Food,6.0,226.3,2023-11-19,SURT
+ORD-0334,Deepa Singh,VASE,Home Decor,1.0,707.86,2023-03-18,
+ORD-0410,Amit Verma,tablet,Electronics,4.0,15792.95,2023-11-21,Ahmadabad
+ORD-0060,Pooja Agarwal,Lamp,Home Decor,7.0,,2023-07-31,hyd
+ORD-0257,Aarav Patel,Business Strategy,Books,4.0,565.42,2023-12-06,jaipur
+ORD-0970,Amit Agarwal,Smart Watch,Electronics,10.0,7942.52,2023-04-28,new delhi
+ORD-0686,Vikram Verma,T-Shirt,Clothing,3.0,508.51,2023-01-04,Poona
+ORD-0343,Kavya Chopra,Spices,Food,6.0,135.29,2023-09-11,PUNE
+ORD-0636,Anjali Malhotra,Juice,Food,4.0,59.05,2023-04-24,Pink City
+ORD-0709,Ananya Kumar,Business Strategy,Books,7.0,463.2,2023-02-07,New Delhi
+ORD-0011,Vikram Chopra,Science Textbook,Books,9.0,556.51,2023-10-01,Madras
+ORD-0486,Pooja Kumar,Tea,Food,5.0,224.07,2023-06-10,Mumbai 
+ORD-0210,Arjun Shah,Chips ,Food,2.0,44.91,2023-07-03,New Delhi
+ORD-0140,,Science Textbook,Books,6.0,742.0,2023-07-26,Hyderabad
+ORD-0389,Shreya Nair,Camera,Electronics,2.0,37631.45,2023-08-22,amdavad
+ORD-0623,Suresh Joshi,Handbag,Clothing,7.0,1922.28,2023-09-27,Calcutta
+ORD-0825,Neha Agarwal,Kurta,Clothing,116.0,12134.550000000001,2023-06-18,Mumbai
+ORD-0718,Sneha Shah,Vase ,Home Decor,2.0,911.61,2023-07-28,SURT
+ORD-0846,Ravi Bose,spices,Food,3.0,146.16,2023-07-04,Ahmedabad
+ORD-0688,Sneha Shah,ML Handbook,Books,7.0,653.8,2023-02-03,Surat
+ORD-0936,Anjali Shah,Monitor,Electronics,5.0,13975.38,2023-06-15,delhi
+ORD-0582,Shreya Reddy,Python Basics,Books,3.0,686.41,2023-04-10,Channai
+ORD-0383,Ravi Reddy,Tablet,Electronics,4.0,18696.29,2023-06-05,SURAT
+ORD-0071,Kiran Gupta,Photo Frame,Home Decor,9.0,432.67,2023-04-03,Kolkatta
+ORD-0261,Rajesh Mehta,HISTORY BOOK,Books,8.0,465.53,2023-07-03,JAIPUR
+ORD-0801,,Spices,Food,5.0,159.33,2023-10-09,Jaipur 
+ORD-0454,Aarav Nair,Vase,Home Decor,2.0,897.53,2023-09-18,hyd
+ORD-0592,Rajesh Kapoor,self help book,Books,5.0,416.9,2023-07-13,delhi
+ORD-0907,Vikram Reddy,Saree,Clothing,,3285.7,2023-03-13,Bengaluru
+ORD-0785,Kiran Verma,Smartphone,Electronics,8.0,22611.98,2023-09-20,Mumabi
+ORD-0214,Suresh Nair,History Book,Books,3.0,412.78,2023-03-24,HYDERABAD
+ORD-0097,Suresh Sharma,MIRROR,Home Decor,5.0,1812.28,2023-07-16,Chennai
+ORD-0680,Sneha Mishra,kurta,Clothing,1.0,887.72,2023-09-21,
+ORD-0850,Kavya Sharma,Headphones,Electronics,10.0,3085.85,2023-09-03,surat 
+ORD-0640,Pooja Pillai,sneakers,Clothing,4.0,2889.56,2023-06-19,Hyd
+ORD-0881,Pooja Gupta,Dress,Clothing,3.0,1378.98,2023-05-14,SURT
+ORD-0193,Divya Verma,headphones,Electronics,10.0,3360.38,2023-12-25,hyderabad
+ORD-0281,Ravi Bose,handbag,Clothing,1.0,2234.0,2023-03-09,Amdavad
+ORD-0534,Arjun Gupta,Rug,Home Decor,8.0,3049.89,2023-12-16,Pink City
+ORD-0683,Ananya Reddy,Headphones,Electronics,4.0,2703.8,2023-03-27,ahmedabad
+ORD-0618,Manish Nair,monitor,Electronics,4.0,13995.95,2023-10-09,Channai
+ORD-0983,Priya Singh,cookies,Food,8.0,88.2,2023-04-28,bangalore
+ORD-0911,Pooja Kapoor,Mirror,Home Decor,5.0,1848.76,2023-10-17,BANGALORE
+ORD-0185,Suresh Verma,rug,Home Decor,9.0,2782.15,2023-08-04,Amdavad
+ORD-0031,Anjali Singh,Self Help Book,Books,2.0,412.91,2023-12-02,MumbAI
+ORD-0329,Rajesh Mehta,Photo Frame,Home Decor,10.0,390.35,2023-06-27,Ahmadabad
+ORD-0507,Divya Kapoor,wall art,Home Decor,1.0,1684.92,2023-12-30,Hyd
+ORD-0055,Kavya Joshi,Novel ,Books,9.0,308.81,2023-03-03,Channai
+ORD-0024,Sneha Kapoor,Chips,Food,10.0,48.0,2023-08-30,Bangalore
+ORD-0102,Anjali Kumar,Clock,Home Decor,2.0,1040.92,2023-07-11,MUMBAI
+ORD-0550,Aarav Bose,CURTAINS,Home Decor,1.0,2163.39,2023-11-28,pune
+ORD-0248,Arjun Bose,plant pot,,2.0,399.0,2023-07-04,Mumabi
+ORD-0004,Sneha Chopra,Keyboard,Electronics,5.0,1544.4,2023-10-26,surat
+ORD-0087,Shreya Chopra,Headphones,Electronics,9.0,3206.65,2023-09-08,Kolkata
+ORD-0844,Sneha Reddy,Lamp,Home Decor,2.0,1365.99,2023-08-12,Amdavad
+ORD-0953,Deepa Iyer,Speaker,Electronics,8.0,2256.53,2023-02-09,Mumbai 
+ORD-0291,Divya Bose,Python Basics,Books,3.0,515.49,2023-08-13,CHENNAI
+ORD-0211,Deepa Joshi,Jacket,Clothing,8.0,2029.24,2023-12-27,KOLKATA
+ORD-0803,Rahul Malhotra,,Electronics,4.0,3068.66,2023-05-29,SURAT
+ORD-0175,Sneha Singh,Spices,Food,8.0,156.53,2023-05-10,Mumbai
+ORD-0200,Pooja Agarwal,mouse,Electronics,7.0,867.17,2023-05-25,Banglore
+ORD-0903,Suresh Reddy,Chocolate,Food,5.0,135.66,2023-11-11,Kolkatta
+ORD-0795,Manish Mishra,self help book,Books,6.0,342.17,2023-12-10,Jaipur
+ORD-0064,Ravi Chopra,ml handbook,Books,7.0,669.92,2023-04-13,pune
+ORD-0266,Anjali Gupta,KEYBOARD,Electronics,3.0,1608.35,2023-07-10,Ahmadabad
+ORD-0232,Pooja Kumar,MONITOR,Electronics,6.0,15011.87,2023-02-16,KOLKATA
+ORD-0804,Amit Shah,SAREE,Clothing,2.0,3096.04,2023-12-10,CHENNAI
+ORD-0626,Divya Mehta,Smart Watch,Electronics,9.0,7685.39,2023-09-24,SURT
+ORD-0569,Vikram Agarwal,spices,Food,5.0,168.19,2023-04-14,MumbAI
+ORD-0855,Kavya Joshi,Dress,Clothing,1.0,1367.31,2023-09-07,DELHI
+ORD-0040,Manish Nair,Honey,Food,1.0,294.61,2023-05-14,Madras
+ORD-0807,Rahul Reddy,Novel,Books,7.0,339.09,2023-02-20,JAIPUR
+ORD-0169,Neha Bose,Biscuits,,1.0,68.98,2023-03-01,JAIPUR
+ORD-0591,Kavya Nair,T-Shirt,Clothing,7.0,445.82,2023-03-03,pink city
+ORD-0465,Pooja Iyer,Handbag,Clothing,8.0,2277.3,2023-06-14,poona
+ORD-0999,Priya Sharma,Headphones,Electronics,5.0,3405.21,2023-03-07,Mumbai
+ORD-0443,Arjun Singh,Plant Pot ,Home Decor,2.0,336.8,2023-10-29,poona
+ORD-0909,Suresh Nair,Jeans ,Clothing,7.0,1113.39,2023-03-23,Pink City
+ORD-0067,Suresh Singh,Rug,Home Decor,7.0,2676.83,2023-10-19,BANGALORE
+ORD-0308,Divya Sharma,MOUSE,Electronics,1.0,757.51,2023-12-02,DELHI
+ORD-0068,Deepa Mishra,Shoes,Clothing,4.0,2726.65,2023-08-23,pink city
+ORD-0199,Kavya Chopra,cookbook,Books,5.0,446.45,2023-03-02,Poona
+ORD-0529,Priya Agarwal,Sneakers,Clothing,,2600.74,2023-01-29,MUMBAI
+ORD-0482,Aarav Agarwal,Sneakers,Clothing,4.0,3176.17,2023-09-20,pink city
+ORD-0758,Anjali Singh,Keyboard,Electronics,6.0,1515.06,2023-10-07,Calcutta
+ORD-0988,Kiran Reddy,saree,Clothing,5.0,2941.34,2023-12-12,Amdavad
+ORD-0363,Neha Iyer,Jeans,Clothing,2.0,1184.97,2023-08-18,Chennai
+ORD-0845,Rahul Gupta,Sunglasses,Clothing,2.0,715.68,2023-05-22,Mumbai
+ORD-0559,Anjali Kapoor,Jacket,Clothing,9.0,2153.08,2023-01-25,madras
+ORD-0619,Vikram Singh,novel,Books,7.0,327.56,2023-07-03,chennai
+ORD-0353,Divya Iyer,Wall Art,Home Decor,3.0,1571.41,2023-04-25,Ahmedabad
+ORD-0761,Ananya Verma,Headphones,Electronics,7.0,2686.51,2023-03-15,hyd
+ORD-0930,,JUICE,Food,7.0,55.64,2023-07-18,poona
+ORD-0293,Vikram Mishra,T-Shirt,Clothing,9.0,548.39,2023-11-09,madras
+ORD-0753,Neha Kumar,Smart Watch,Electronics,2.0,8306.5,2023-03-22,Amdavad
+ORD-0101,Rahul Patel,protein bar,Food,8.0,103.13,2023-04-13,Banglore
+ORD-0492,Shreya Iyer,Art Book,Books,4.0,569.82,2023-04-18,bangalore
+ORD-0833,Shreya Mehta,Juice,Food,2.0,53.54,2023-10-18,Jaipur
+ORD-0809,Suresh Verma,Sunglasses,Clothing,2.0,788.2,2023-10-25,DELHI
+ORD-0306,Neha Bose,CLOCK,Home Decor,8.0,1142.76,2023-02-02,MumbAI
+ORD-0629,Amit Agarwal,Shoes,Clothing,4.0,2152.51,2023-03-23,SURT
+ORD-0159,Deepa Bose,speaker,Electronics,2.0,2303.23,2023-11-16,calcutta
+ORD-0552,,Kurta,Clothing,9.0,884.52,2023-07-19,DELHI
+ORD-0003,Anjali Verma,Cookbook,Books,8.0,427.84,2023-01-19,Jaipur
+ORD-0729,Sneha Sharma,Lamp,Home Decor,10.0,1092.59,2023-10-01,Amdavad
+ORD-0209,Anjali Mehta,python basics,Books,8.0,510.91,2023-04-14,Ahmadabad
+ORD-0300,Divya Agarwal,SNEAKERS,Clothing,9.0,2626.81,2023-09-05,Dlehi
+ORD-0851,Pooja Patel,Juice,Food,9.0,52.21,2023-08-25,bengaluru
+ORD-0437,Divya Joshi,Keyboard,Electronics,3.0,1307.74,2023-12-11,JAIPUR
+ORD-0870,Priya Joshi,SMARTPHONE,Electronics,4.0,28345.87,2023-01-10,new delhi
+ORD-0412,Rahul Joshi,NOVEL,Books,8.0,340.51,2023-10-08,Jaipur 
+ORD-0615,Kavya Singh,Clock,Home Decor,5.0,1112.07,2023-06-04,Chennai
+ORD-0908,Kavya Patel,Lamp,Home Decor,6.0,1143.05,2023-08-17,bangalore
+ORD-0913,Suresh Gupta,Lamp,Home Decor,3.0,1244.69,2023-12-04,Mumbai
+ORD-0997,Ananya Agarwal,ml handbook,Books,8.0,787.64,2023-05-05,Amdavad
+ORD-0963,Kiran Joshi,Chips,Food,1.0,46.18,2023-09-04,Hyd
+ORD-0701,Manish Kumar,Juice,Food,2.0,60.59,2023-02-06,hyd
+ORD-0779,Kiran Kapoor,ML HANDBOOK,Books,1.0,746.21,2023-06-06,hyderabad
+ORD-0307,Amit Agarwal,Handbag,Clothing,8.0,2009.78,2023-05-14,mumbai
+ORD-0921,Sneha Kumar,,Home Decor,2.0,388.69,2023-02-02,amdavad
+ORD-0494,Divya Verma,Cookbook,Books,2.0,362.57,2023-05-29,amdavad
+ORD-0424,Ravi Kumar,self help book,Books,4.0,399.33,2023-11-09,madras
+ORD-0299,Pooja Chopra,Cookbook,Books,6.0,414.75,2023-03-08,BANGALORE
+ORD-0468,Arjun Kumar,Science Textbook,Books,7.0,721.88,2023-08-03,Calcutta
+ORD-0885,Kiran Pillai,Jeans ,Clothing,2.0,1307.97,2023-12-01,poona
+ORD-0756,Vikram Shah,Art Book,Books,10.0,598.51,2023-03-11,Banglore
+ORD-0107,Divya Verma,,Clothing,8.0,2919.34,2023-01-10,Poona
+ORD-0859,Priya Reddy,Science Textbook,Books,4.0,662.64,2023-11-27,surat
+ORD-0056,Amit Pillai,Honey,Food,2.0,337.97,2023-12-15,Calcutta
+ORD-0121,Pooja Gupta,chocolate,Food,6.0,163.83,2023-06-06,new delhi
+ORD-0311,Rahul Mishra,ML Handbook,,2.0,687.18,2023-12-27,mumbai
+ORD-0026,Deepa Agarwal,Jacket,Clothing,5.0,2171.11,2023-05-13,pink city
+ORD-0073,Deepa Pillai,curtains,Home Decor,9.0,1703.31,2023-09-07,Banglore
+ORD-0531,Deepa Joshi,Photo Frame,Home Decor,5.0,437.55,2023-05-17,jaipur
+ORD-0045,Ravi Kumar,SPEAKER,Electronics,5.0,2319.08,2023-08-29,Hyd
+ORD-0276,Arjun Gupta,Coffee,Food,9.0,400.18,2023-09-02,Mumbai
+ORD-0479,Divya Verma,Jacket,Clothing,,2281.58,2023-07-31,Pune
+ORD-0315,Suresh Mehta,Novel,Books,1.0,330.24,2023-10-17,PUNE
+ORD-0337,Manish Kapoor,Speaker,Electronics,1.0,2766.6,2023-01-28,DELHI
+ORD-0690,Sneha Nair,,Home Decor,9.0,1631.0,2023-12-10,hyd
+ORD-0431,Priya Joshi,Self Help Book,Books,6.0,357.16,2023-04-08,bangalore
+ORD-0951,,Sunglasses,Clothing,4.0,824.12,2023-10-28,KOLKATA
+ORD-0834,Kavya Malhotra,Jacket,Clothing,3.0,1805.83,2023-07-06,amdavad
+ORD-0589,,protein bar,Food,1.0,,2023-03-30,surat
+ORD-0704,Vikram Kapoor,BISCUITS,Food,5.0,71.23,2023-01-13,Ahmadabad
+ORD-0328,Shreya Singh,DRESS,Clothing,1.0,1550.27,2023-09-04,mumbai
+ORD-0993,Divya Kumar,Dress,Clothing,1.0,1397.47,2023-03-24,Poona
+ORD-0604,Anjali Chopra,DATA SCIENCE GUIDE,Books,2.0,701.29,2023-08-27,surat
+ORD-0928,Ananya Mishra,Business Strategy ,Books,10.0,506.25,2023-09-23,Channai
+ORD-0981,Neha Verma,Data Science Guide,Books,1.0,760.22,2023-03-02,pune
+ORD-0972,Deepa Kapoor,,Clothing,10.0,2262.1,2023-09-21,Banglore
+ORD-0763,Shreya Bose,Novel,Books,6.0,277.36,2023-12-13,Jaipur
+ORD-0332,Ananya Agarwal,camera,Electronics,1.0,37707.38,2023-11-25,Pun
+ORD-0061,Rahul Kapoor,Laptop ,Electronics,3.0,53163.18,2023-01-28,poona
+ORD-0746,Rahul Mishra,Smartphone,Electronics,1.0,27996.81,2023-05-25,Mumbai
+ORD-0372,Anjali Iyer,Mirror,Home Decor,3.0,1539.84,2023-02-22,Kolkatta
+ORD-0093,Kavya Bose,Python Basics,Books,8.0,646.94,2023-08-08,Banglore
+ORD-0723,,Mirror,Home Decor,9.0,,2023-08-10,SURAT
+ORD-0491,Ravi Mishra,smart watch,Electronics,6.0,7893.58,2023-04-13,Hyd
+ORD-0463,Suresh Singh,Protein Bar,Food,5.0,128.86,2023-11-04,HYDERABAD
+ORD-0219,Sneha Nair,Wall Art,Home Decor,5.0,1567.33,2023-12-19,jaipur
+ORD-0514,Manish Verma,,Clothing,2.0,887.86,2023-12-08,calcutta
+ORD-0621,Vikram Agarwal,Dress,Clothing,2.0,1358.03,2023-12-29,amdavad
+ORD-0426,Neha Chopra,Monitor,Electronics,7.0,15222.88,2023-04-07,Pink City
+ORD-0333,Sneha Gupta,Science Textbook,Books,2.0,555.31,2023-07-17,HYDERABAD
+ORD-0860,Shreya Verma,ml handbook,Books,3.0,608.8,2023-11-07,jaipur
+ORD-0990,Vikram Chopra,Speaker,Electronics,8.0,2739.33,2023-09-03,Ahmadabad
+ORD-0583,Suresh Singh,Tablet ,Electronics,1.0,17960.14,2023-05-31,bengaluru
+ORD-0356,Suresh Joshi,VASE,Home Decor,6.0,834.18,2023-07-13,Kolkatta
+ORD-0483,Anjali Gupta,Mirror,Home Decor,9.0,1775.45,2023-06-03,BANGALORE
+ORD-0546,,Sunglasses,Clothing,1.0,765.96,2023-11-12,Pun
+ORD-0111,Vikram Singh,Monitor,Electronics,3.0,14053.88,2023-05-08,JAIPUR
+ORD-0515,Shreya Patel,Cookbook,Books,9.0,345.43,2023-12-30,MUMBAI
+ORD-0603,Sneha Singh,headphones,Electronics,10.0,2709.31,2023-06-19,surat
+ORD-0996,Amit Gupta,Laptop,Electronics,,,2023-01-12,MUMBAI
+ORD-0508,Arjun Rao,Mirror,Home Decor,3.0,1974.17,2023-03-01,Kolkatta
+ORD-0335,Rajesh Sharma,Saree,Clothing,1.0,2591.4,2023-10-13,Mumbai 
+ORD-0849,Anjali Bose,kurta,Clothing,2.0,800.53,2023-06-19,HYDERABAD
+ORD-0295,Aarav Malhotra,Plant Pot,Home Decor,1.0,310.84,2023-07-03,HYDERABAD
+ORD-0287,Anjali Kapoor,Science Textbook,Books,3.0,643.29,2023-10-30,poona
+ORD-0939,Ananya Verma,ML Handbook,Books,5.0,619.73,2023-09-24,new delhi
+ORD-0448,Rahul Agarwal,Novel,Books,9.0,322.8,2023-09-29,Surat
+ORD-0693,Ananya Agarwal,Protein Bar,Food,4.0,120.27,2023-12-17,Bangalore
+ORD-0653,Rahul Kumar,Mouse,Electronics,10.0,820.84,2023-08-17,Calcutta
+ORD-0969,Arjun Chopra,Wall Art,Home Decor,1.0,1529.88,2023-03-26,Hyderabad
+ORD-0278,Ravi Joshi,Keyboard,Electronics,2.0,1567.48,2023-11-29,KOLKATA
+ORD-0759,Amit Nair,Tablet,Electronics,6.0,20127.02,2023-06-01,Pun
+ORD-0138,Vikram Patel,shoes,Clothing,3.0,2652.26,2023-04-07,Mumbai 
+ORD-0502,,HEADPHONES,Electronics,6.0,3032.49,2023-09-15,Pun
+ORD-0405,Priya Nair,Data Science Guide,Books,5.0,756.81,2023-12-04,MUMBAI
+ORD-0524,Suresh Agarwal,Monitor,Electronics,7.0,,2023-01-13,surat
+ORD-0781,Divya Patel,Plant Pot,Home Decor,4.0,370.36,2023-06-26,Bangalore
+ORD-0978,Arjun Pillai,Biscuits,Food,6.0,69.23,2023-03-22,delhi
+ORD-0581,Neha Nair,Smartphone,Electronics,7.0,24693.52,2023-04-11,jaipur
+ORD-0238,Deepa Chopra,T-Shirt,Clothing,3.0,428.65,2023-04-29,Amdavad
+ORD-0989,Rahul Nair,Smart Watch,Electronics,8.0,7391.36,2023-09-03,AHMEDABAD
+ORD-0216,Kavya Pillai,Kurta,Clothing,10.0,736.94,2023-10-08,DELHI
+ORD-0895,Kavya Chopra,Saree,Clothing,3.0,3151.28,2023-09-19,Hyderabad
+ORD-0245,Deepa Mehta,Vase,Home Decor,7.0,683.71,2023-03-31,Delhi
+ORD-0553,Arjun Shah,Protein Bar,Food,4.0,121.87,2023-05-02,amdavad
+ORD-0838,Pooja Gupta,Biscuits,Food,3.0,76.7,2023-01-03,Amdavad
+ORD-0864,Ravi Mehta,Keyboard,Electronics,9.0,1473.34,2023-10-03,Suart
+ORD-0668,Manish Mishra,Photo Frame,Home Decor,5.0,359.28,2023-01-13,Pink City
+ORD-0622,Aarav Patel,Tea,Food,5.0,182.56,2023-06-12,Ahmadabad
+ORD-0079,Shreya Sharma,Self Help Book,Books,1.0,383.02,2023-01-30,pink city
+ORD-0030,Deepa Kumar,clock,Home Decor,8.0,863.94,2023-06-21,surat 
+ORD-0451,Ravi Sharma,BISCUITS,Food,7.0,86.65,2023-08-10,hyderabad
+ORD-0290,Pooja Rao,JUICE,Food,10.0,61.63,2023-12-14,Poona
+ORD-0050,Ravi Verma,Art Book,Books,7.0,498.0,2023-11-14,Mumbai 
+ORD-0671,Ravi Shah,Tea,Food,10.0,180.4,2023-09-21,bangalore
+ORD-0799,Sneha Chopra,coffee,Food,7.0,423.6,2023-08-25,Calcutta
+ORD-0215,Rahul Nair,Mouse,Electronics,7.0,850.92,2023-01-21,Mumabi
+ORD-0166,Amit Shah,protein bar,Food,6.0,132.07,2023-01-11,MumbAI
+ORD-0931,Kavya Pillai,Smartphone,Electronics,5.0,22295.17,2023-08-29,SURAT
+ORD-0179,Suresh Mehta,Rug,Home Decor,1.0,3393.06,2023-04-16,SURAT
+ORD-0694,Divya Sharma,Monitor,Electronics,10.0,13840.84,2023-08-06,Kolkata
+ORD-0066,Divya Nair,KURTA,Clothing,3.0,810.25,2023-07-29,Pink City
+ORD-0142,Rajesh Iyer,Laptop,Electronics,9.0,50904.41,2023-04-27,Kolkata
+ORD-0986,Neha Rao,Photo Frame,Home Decor,1.0,399.46,2023-02-28,Hyderabad
+ORD-0352,Ravi Agarwal,Headphones,Electronics,8.0,3320.84,2023-09-17,chennai
+ORD-0862,Ananya Sharma,Novel,Books,9.0,295.8,2023-05-24,DELHI
+ORD-0441,Deepa Agarwal,ART BOOK,Books,7.0,481.5,2023-08-23,madras
+ORD-0347,Pooja Iyer,Self Help Book,Books,2.0,416.21,2023-06-14,Chennai
+ORD-0255,Deepa Joshi,CHIPS,Food,4.0,45.04,2023-01-05,Hyd
+ORD-0695,Ananya Nair,TEA,Food,1.0,176.89,2023-02-23,Bangalore
+ORD-0345,Rahul Pillai,Headphones,Electronics,10.0,2908.65,2023-02-08,hyd
+ORD-0222,Sneha Agarwal,Art Book,Books,4.0,561.27,2023-05-01,Pink City
+ORD-0236,Deepa Mishra,Science Textbook,Books,2.0,693.38,2023-05-12,AHMEDABAD
+ORD-0548,Arjun Nair,,Clothing,8.0,525.74,2023-10-15,Kolkata
+ORD-0500,Ravi Sharma,Cushion,Home Decor,7.0,572.93,2023-11-29,amdavad
+ORD-0596,Divya Rao,data science guide,Books,1.0,793.75,2023-10-12,Hyd
+ORD-0941,Kavya Bose,Plant Pot,Home Decor,1.0,326.28,2023-05-21,Madras
+ORD-0250,Kiran Iyer,Clock,Home Decor,1.0,1105.9,2023-06-10,DELHI
+ORD-0319,Ravi Kumar,,Electronics,6.0,717.54,2023-09-23,delhi
+ORD-0382,Kavya Bose,Protein Bar,Food,7.0,127.08,2023-11-23,Bangalore
+ORD-0072,Kiran Singh,,Home Decor,8.0,909.61,2023-02-11,Pun
+ORD-0095,Sneha Joshi,Handbag,Clothing,10.0,2162.58,2023-08-08,mumbai
+ORD-0034,Neha Shah,Clock,Home Decor,4.0,1134.67,2023-07-01,bengaluru
+ORD-0260,Arjun Mishra,Mouse,Electronics,1.0,703.32,2023-06-18,Amdavad
+ORD-0205,Pooja Joshi,Laptop,Electronics,2.0,56756.08,2023-11-08,Mumabi
+ORD-0360,Ananya Kapoor,Mouse,Electronics,2.0,818.11,2023-08-24,
+ORD-0602,Deepa Iyer,Sneakers,Clothing,8.0,2800.73,2023-01-03,surat 
+ORD-0399,Deepa Verma,Saree,Clothing,3.0,3225.78,2023-08-31,Chennai
+ORD-0078,Ananya Rao,Monitor,Electronics,5.0,13083.2,2023-11-21,PUNE
+ORD-0085,Rahul Chopra,Dress,,2.0,1414.94,2023-10-23,Delhi
+ORD-0320,Shreya Sharma,Mirror,,3.0,1665.13,2023-09-25,MUMBAI
+ORD-0083,Rajesh Kumar,handbag,Clothing,2.0,1898.54,2023-04-18,Bengaluru
+ORD-0948,Shreya Pillai,Clock,Home Decor,10.0,1120.01,2023-12-01,Pink City
+ORD-0708,Suresh Malhotra,Spices,Food,3.0,163.94,2023-02-14,Calcutta
+ORD-0539,Pooja Verma,,Food,1.0,394.07,2023-06-01,Jaipur
+ORD-0544,Ananya Kapoor,Rug,Home Decor,2.0,3154.53,2023-08-20,Mumabi
+ORD-0826,Neha Bose,Laptop ,Electronics,6.0,61927.62,2023-11-12,
+ORD-0429,Arjun Agarwal,Lamp,Home Decor,3.0,1146.33,2023-04-21,Ahmadabad
+ORD-0310,Rajesh Sharma,Laptop,Electronics,5.0,51218.73,2023-01-07,Ahmadabad
+ORD-0006,Pooja Patel,Cookies ,Food,7.0,,2023-10-20,hyderabad
+ORD-0789,Neha Patel,Handbag ,Clothing,8.0,1977.2,2023-04-24,JAIPUR
+ORD-0105,Anjali Nair,Biscuits,Food,4.0,89.78,2023-09-29,DELHI
+ORD-0098,Rajesh Chopra,Chocolate,Food,6.0,146.74,2023-01-03,surat 
+ORD-0297,Aarav Shah,Dress,,4.0,1621.5,2023-01-15,pune
+ORD-0409,Rajesh Patel,SNEAKERS,Clothing,5.0,3364.84,2023-07-01,Ahmedabad
+ORD-0446,Kiran Chopra,Sunglasses ,Clothing,,907.34,2023-09-13,Pune
+ORD-0904,Kiran Kapoor,PYTHON BASICS,Books,7.0,614.95,2023-12-17,Poona
+ORD-0282,Rahul Reddy,Protein Bar,Food,5.0,5.708500000000001,2023-12-23,Hyderabad
+ORD-0267,Kiran Bose,Tea,Food,9.0,211.82,2023-06-25,Suart
+ORD-0740,Rajesh Kapoor,Science Textbook,Books,8.0,626.0,2023-02-24,Chennai
+ORD-0887,Manish Iyer,Photo Frame,Home Decor,8.0,418.33,2023-07-07,chennai
+ORD-0535,Deepa Sharma,Lamp,Home Decor,6.0,1296.84,2023-05-09,SURT
+ORD-0433,Arjun Kumar,ML Handbook,Books,2.0,724.83,2023-02-25,JAIPUR
+ORD-0912,Arjun Kapoor,Vase,Home Decor,4.0,744.34,2023-10-17,bangalore
+ORD-0657,Ananya Malhotra,Smart Watch,Electronics,4.0,7481.06,2023-11-15,DELHI
+ORD-0119,Vikram Chopra,Handbag ,Clothing,3.0,2235.54,2023-09-15,poona
+ORD-0406,Shreya Singh,PROTEIN BAR,Food,10.0,134.24,2023-04-24,madras
+ORD-0251,Neha Kumar,CAMERA,Electronics,3.0,32841.71,2023-08-07,surat
+ORD-0378,Kavya Iyer,Novel,Books,9.0,257.09,2023-01-01,
+ORD-0616,Kavya Chopra,Jeans,Clothing,2.0,1351.51,2023-09-09,Pune
+ORD-0010,Aarav Chopra,Sneakers,Clothing,8.0,3187.27,2023-12-18,Hyderabad
+ORD-0358,Arjun Joshi,Rug,Home Decor,7.0,153.86,2023-05-01,Jaipur
+ORD-0197,Kavya Mehta,ML HANDBOOK,Books,10.0,747.45,2023-09-19,Bengaluru
+ORD-0632,Divya Nair,Data Science Guide,Books,3.0,894.85,2023-10-02,MumbAI
+ORD-0082,Priya Joshi,Clock,Home Decor,,1036.99,2023-05-21,Mumbai
+ORD-0527,Manish Rao,BISCUITS,Food,10.0,77.96,2023-01-28,DELHI
+ORD-0831,Anjali Chopra,Cookbook,Books,10.0,366.95,2023-03-20,KOLKATA
+ORD-0906,Ravi Patel,Self Help Book,Books,4.0,447.12,2023-09-21,jaipur
+ORD-0240,Pooja Kapoor,Biscuits,Food,7.0,72.25,2023-06-01,mumbai
+ORD-0324,Aarav Joshi,mouse,Electronics,9.0,747.18,2023-02-18,Hyd
+ORD-0212,Anjali Sharma,NOVEL,Books,3.0,317.27,2023-07-29,KOLKATA
+ORD-0847,Kiran Verma,SUNGLASSES,Clothing,2.0,700.48,2023-03-10,Calcutta
+ORD-0549,Arjun Nair,Rug ,Home Decor,8.0,3018.28,2023-04-25,MUMBAI
+ORD-0498,Ravi Mishra,WALL ART,Home Decor,10.0,1309.98,2023-03-09,Pink City
+ORD-0228,Ravi Patel,Laptop,Electronics,1.0,53236.11,2023-10-21,surat 
+ORD-0892,Anjali Singh,Clock,Home Decor,3.0,1106.71,2023-03-10,Surat
+ORD-0815,,Art Book,Books,1.0,611.03,2023-12-02,JAIPUR
+ORD-0829,Arjun Agarwal,rug,Home Decor,10.0,3213.75,2023-12-22,surat 
+ORD-0178,Ananya Mehta,Sneakers,Clothing,8.0,2898.06,2023-03-20,KOLKATA
+ORD-0975,Rajesh Kumar,T-Shirt,Clothing,7.0,429.68,2023-04-19,
+ORD-0434,Anjali Nair,Biscuits,Food,8.0,3.5215000000000005,2023-08-01,bengaluru
+ORD-0944,Kavya Kapoor,honey,Food,5.0,329.68,2023-10-06,hyd
+ORD-0517,Rajesh Rao,Keyboard,Electronics,9.0,1444.41,2023-12-12,Suart
+ORD-0351,Neha Pillai,Kurta ,Clothing,1.0,800.75,2023-01-26,Kolkata
+ORD-0519,Sneha Pillai,Art Book,Books,8.0,630.4,2023-05-27,Ahmedabad
+ORD-0008,Vikram Joshi,Cookies ,Food,6.0,110.99,2023-06-25,surat 
+ORD-0156,Vikram Rao,Sunglasses,Clothing,8.0,738.09,2023-11-24,amdavad
+ORD-0945,Suresh Nair,Chips,Food,4.0,45.6,2023-10-19,MUMBAI
+ORD-0482,Aarav Agarwal,Sneakers,Clothing,4.0,3176.17,2023-09-20,pink city
+ORD-0330,Arjun Nair,JUICE,Food,8.0,55.46,2023-12-06,new delhi
+ORD-0543,Neha Kumar,Dress,Clothing,,1377.89,2023-07-03,SURAT
+ORD-0440,Priya Gupta,Photo Frame,Home Decor,4.0,349.76,2023-08-19,calcutta
+ORD-0810,Kiran Kumar,Juice,Food,9.0,53.04,2023-09-07,bangalore
+ORD-0901,Vikram Patel,ML Handbook,Books,8.0,638.66,2023-12-06,Pun
+ORD-0371,Shreya Chopra,ML Handbook,Books,10.0,616.16,2023-01-10,JAIPUR
+ORD-0605,Amit Kapoor,Smartphone,Electronics,9.0,22154.77,2023-12-30,Channai
+ORD-0974,Pooja Mishra,Dress,Clothing,5.0,1371.72,2023-05-24,BANGALORE
+ORD-0594,Anjali Iyer,Smartphone,Electronics,9.0,23842.5,2023-08-08,MUMBAI
+ORD-0877,Amit Reddy,ML Handbook ,Books,7.0,745.35,2023-10-30,Suart
+ORD-0555,Pooja Nair,Cushion,Home Decor,1.0,556.5,2023-12-23,bangalore
+ORD-0754,Kiran Singh,CHOCOLATE,Food,3.0,142.57,2023-10-01,Mumbai 
+ORD-0874,Ananya Chopra,Camera,Electronics,2.0,34041.71,2023-10-25,BANGALORE
+ORD-0533,Sneha Singh,Smart Watch,Electronics,7.0,9191.93,2023-05-27,JAIPUR
+ORD-0867,Pooja Singh,LAPTOP,Electronics,8.0,49311.46,2023-11-17,
+ORD-0229,Pooja Sharma,Cookbook,Books,10.0,447.05,2023-12-09,Pune
+ORD-0391,Ananya Reddy,Plant Pot,Home Decor,2.0,401.5,2023-07-06,HYDERABAD
+ORD-0760,Vikram Gupta,Laptop,Electronics,2.0,59761.85,2023-11-21,MumbAI
+ORD-0213,Vikram Kapoor,SCIENCE TEXTBOOK,Books,6.0,679.63,2023-06-01,pink city
+ORD-0080,Sneha Shah,plant pot,Home Decor,1.0,309.67,2023-01-03,mumbai
+ORD-0149,Sneha Malhotra,Self Help Book,Books,3.0,346.18,2023-03-28,chennai
+ORD-0303,Pooja Iyer,science textbook,Books,5.0,657.92,2023-07-30,Suart
+ORD-0449,Priya Mishra,DATA SCIENCE GUIDE,Books,6.0,770.3,2023-01-25,jaipur
+ORD-0362,Shreya Rao,Speaker,Electronics,8.0,2607.47,2023-10-21,Calcutta
+ORD-0532,Rahul Mishra,MONITOR,Electronics,1.0,17248.73,2023-03-24,madras
+ORD-0530,Rahul Joshi,Clock,Home Decor,131.0,1109.42,2023-04-13,Channai
+ORD-0044,Suresh Kapoor,novel,Books,3.0,336.84,2023-03-02,pune
+ORD-0674,Rahul Kumar,cushion,Home Decor,8.0,503.68,2023-09-07,HYDERABAD
+ORD-0134,Arjun Reddy,Protein Bar,,2.0,114.15,2023-03-10,Channai
+ORD-0576,Suresh Mishra,Protein Bar,Food,3.0,136.18,2023-11-28,Madras
+ORD-0312,Amit Bose,Jeans,,2.0,1048.24,2023-12-14,delhi
+ORD-0635,Aarav Shah,Lamp,Home Decor,5.0,,2023-06-28,madras
+ORD-0568,Kavya Joshi,Science Textbook,Books,9.0,637.81,2023-05-09,Hyd
+ORD-0821,Priya Rao,Clock ,Home Decor,2.0,1090.86,2023-04-10,SURAT
+ORD-0001,Sneha Sharma,Curtains,Home Decor,8.0,1924.72,2023-07-27,surat
+ORD-0478,Vikram Nair,Shoes,Clothing,8.0,2540.39,2023-03-12,Surat
+ORD-0317,Suresh Kapoor,Clock,Home Decor,9.0,972.69,2023-12-09,Ahmadabad
+ORD-0738,Rahul Rao,Tablet,Electronics,3.0,19709.64,2023-07-03,MUMBAI
+ORD-0573,Priya Malhotra,Business Strategy,Books,6.0,484.48,2023-11-21,Bangalore
+ORD-0381,Divya Rao,Cookies,,3.0,88.54,2023-11-13,Pink City
+ORD-0833,Shreya Mehta,Juice,Food,2.0,53.54,2023-10-18,Jaipur
+ORD-0973,Shreya Pillai,lamp,Home Decor,8.0,1283.73,2023-11-26,AHMEDABAD
+ORD-0962,Neha Shah,Novel,Books,9.0,309.28,2023-09-07,Surat
+ORD-0173,Deepa Singh,Curtains,Home Decor,10.0,2007.26,2023-03-05,Pink City
+ORD-0126,Divya Sharma,T-SHIRT,Clothing,1.0,489.07,2023-05-29,Amdavad
+ORD-0667,Suresh Bose,Novel,Books,6.0,277.14,2023-05-25,Bengaluru
+ORD-0469,Suresh Nair,Tea,Food,10.0,183.42,2023-11-08,Bengaluru
+ORD-0835,Arjun Bose,Science Textbook,Books,8.0,649.68,2023-06-11,Bangalore
+ORD-0940,Arjun Shah,Sunglasses,Clothing,4.0,818.36,2023-11-21,Surat
+ORD-0091,Divya Mehta,Shoes,Clothing,1.0,2214.7,2023-08-11,JAIPUR
+ORD-0979,Kavya Verma,Juice,Food,,59.93,2023-07-05,surat
+ORD-0182,Priya Kumar,DRESS,Clothing,3.0,1326.06,2023-11-19,Hyd
+ORD-0364,Vikram Shah,spices,Food,4.0,152.05,2023-02-15,PUNE
+ORD-0275,Pooja Chopra,Kurta,,1.0,802.72,2023-12-20,BANGALORE
+ORD-0965,Amit Joshi,Sneakers,Clothing,9.0,2809.82,2023-01-04,
+ORD-0070,Aarav Nair,Rug,Home Decor,5.0,3438.2,2023-06-11,hyd
+ORD-0292,Pooja Patel,Vase,Home Decor,4.0,688.96,2023-04-03,New Delhi
+ORD-0132,Manish Sharma,Science Textbook,Books,10.0,595.81,2023-08-11,DELHI
+ORD-0301,Anjali Iyer,Rug,Home Decor,6.0,2596.51,2023-09-07,amdavad
+ORD-0606,Arjun Shah,Juice,Food,3.0,59.29,2023-03-21,MUMBAI
+ORD-0327,Anjali Verma,Wall Art,Home Decor,4.0,1524.46,2023-05-08,ahmedabad
+ORD-0145,Kiran Kumar,Protein Bar,Food,5.0,112.25,2023-04-19,kolkata
+ORD-0899,Rahul Bose,Self Help Book,Books,4.0,341.56,2023-09-15,DELHI
+ORD-0570,Ravi Verma,,Electronics,9.0,23861.92,2023-11-14,hyderabad
+ORD-0669,Sneha Rao,Chocolate,Food,6.0,135.9,2023-09-22,mumbai
+ORD-0136,Shreya Verma,Vase,Home Decor,1.0,757.57,2023-09-08,
+ORD-0452,Rahul Joshi,PHOTO FRAME,Home Decor,9.0,407.01,2023-10-27,CHENNAI
+ORD-0165,Kiran Nair,Self Help Book,Books,2.0,350.83,2023-12-01,surat
+ORD-0029,Priya Joshi,Sneakers,Clothing,3.0,3083.17,2023-12-15,Bengaluru
+ORD-0588,Manish Sharma,Tea,Food,5.0,,2023-04-06,pune
+ORD-0194,Pooja Verma,Clock,Home Decor,9.0,1039.93,2023-03-12,Pink City
+ORD-0430,Shreya Reddy,Business Strategy,Books,10.0,442.56,2023-08-23,Pune
+ORD-0666,Anjali Mishra,Tablet,Electronics,6.0,16125.44,2023-10-04,pink city
+ORD-0987,Anjali Shah,Juice,Food,7.0,63.39,2023-09-04,mumbai
+ORD-0170,Divya Reddy,Smartphone,Electronics,2.0,25681.7,2023-08-02,Pun
+ORD-0526,Suresh Chopra,Coffee,Food,2.0,396.24,2023-03-16,Kolkatta
+ORD-0141,Priya Patel,Saree,Clothing,8.0,3416.2,2023-01-10,Pun
+ORD-0174,Amit Nair,Smart Watch,Electronics,,7343.59,2023-10-08,Kolkatta
+ORD-0007,Aarav Kumar,Shoes,Clothing,5.0,2168.56,2023-04-08,Pink City
+ORD-0765,,Curtains,Home Decor,3.0,1720.12,2023-07-11,KOLKATA
+ORD-0520,Arjun Sharma,Clock,Home Decor,2.0,895.13,2023-08-05,chennai
+ORD-0679,Divya Rao,cookbook,Books,8.0,456.34,2023-06-14,Hyderabad
+ORD-0074,Ananya Mehta,Python Basics,Books,10.0,656.78,2023-06-20,Dlehi
+ORD-0714,Pooja Iyer,Coffee,Food,2.0,389.42,2023-02-06,Pink City
+ORD-0676,Kavya Verma,Keyboard,Electronics,9.0,1717.07,2023-06-01,Bangalore
+ORD-0239,Amit Mehta,HANDBAG,Clothing,4.0,2087.28,2023-08-22,bangalore
+ORD-0146,Neha Kumar,Art Book,Books,2.0,473.59,2023-01-12,SURAT
+ORD-0824,Amit Gupta,Kurta,Clothing,3.0,775.56,2023-08-19,Mumabi
+ORD-0235,Deepa Pillai,t-shirt,Clothing,2.0,454.29,2023-02-21,PUNE
+ORD-0221,Ravi Patel,Smart Watch,Electronics,4.0,8378.27,2023-06-19,Kolkatta
+ORD-0215,Rahul Nair,Mouse,Electronics,7.0,850.92,2023-01-21,Mumabi
+ORD-0689,Divya Shah,t-shirt,Clothing,10.0,540.42,2023-04-18,madras
+ORD-0133,Manish Nair,Saree,Clothing,,2657.88,2023-12-18,New Delhi
+ORD-0126,Divya Sharma,T-SHIRT,Clothing,1.0,489.07,2023-05-29,Amdavad
+ORD-0458,Ravi Gupta,Kurta,Clothing,9.0,792.48,2023-03-30,Mumabi
+ORD-0685,Rajesh Pillai,Laptop,Electronics,8.0,62084.7,2023-10-01,Amdavad
+ORD-0423,Vikram Mehta,KURTA,,2.0,701.89,2023-05-11,madras
+ORD-0186,Ravi Gupta,,Electronics,9.0,15719.93,2023-12-05,Madras
+ORD-0042,Suresh Patel,ML Handbook,Books,3.0,698.99,2023-05-31,SURT
+ORD-0639,Priya Verma,honey,Food,10.0,279.23,2023-06-19,mumbai
+ORD-0109,Shreya Joshi,Honey,Food,6.0,275.59,2023-01-03,Jaipur
+ORD-0617,Kavya Patel,,Electronics,5.0,15629.82,2023-10-21,Hyd
+ORD-0057,Shreya Kumar,Chocolate ,Food,1.0,131.48,2023-07-15,Kolkata
+ORD-0450,Suresh Agarwal,Smartphone,Electronics,8.0,21876.26,2023-10-11,Hyderabad
+ORD-0774,Arjun Bose,python basics,Books,9.0,581.51,2023-11-02,
+ORD-0590,Sneha Bose,Camera ,Electronics,10.0,31344.98,2023-09-21,Kolkata
+ORD-0896,Suresh Gupta,Keyboard,Electronics,7.0,1367.24,2023-02-16,calcutta
+ORD-0436,Pooja Singh,History Book,Books,1.0,477.13,2023-11-21,KOLKATA
+ORD-0025,,Mirror,Home Decor,7.0,1776.28,2023-03-07,mumbai
+ORD-0811,Pooja Pillai,Lamp,Home Decor,,1374.54,2023-06-19,Hyderabad
+ORD-0495,Manish Mehta,cookbook,Books,9.0,395.64,2023-12-18,MumbAI
+ORD-0827,Priya Mishra,sunglasses,Clothing,5.0,763.12,2023-12-04,New Delhi
+ORD-0982,Pooja Pillai,HEADPHONES,Electronics,7.0,3243.82,2023-12-05,Ahmadabad
+ORD-0929,Ravi Patel,Sunglasses ,Clothing,8.0,832.03,2023-07-04,JAIPUR
+ORD-0966,Shreya Sharma,Shoes,Clothing,9.0,47.835,2023-09-14,HYDERABAD
+ORD-0339,Rajesh Joshi,Clock,Home Decor,10.0,992.25,2023-11-26,hyderabad
+ORD-0052,Divya Nair,Spices,Food,1.0,162.38,2023-08-30,Jaipur
+ORD-0384,Ravi Joshi,Tablet,Electronics,8.0,20038.35,2023-09-18,surat
+ORD-0540,Anjali Pillai,Self Help Book,Books,7.0,355.5,2023-04-15,hyderabad
+ORD-0992,Deepa Agarwal,Vase,Home Decor,7.0,846.73,2023-10-30,Pun
+ORD-0661,Arjun Pillai,keyboard,Electronics,6.0,1435.24,2023-06-14,Dlehi
+ORD-0964,Sneha Mehta,CUSHION,Home Decor,8.0,483.39,2023-11-06,delhi
+ORD-0265,Sneha Mishra,Kurta,Clothing,6.0,890.57,2023-02-17,surat 
+ORD-0955,Amit Kumar,Keyboard ,Electronics,9.0,1463.45,2023-05-09,Hydrabad
+ORD-0742,Sneha Kapoor,mouse,Electronics,6.0,752.33,2023-12-18,HYDERABAD
+ORD-0713,Ravi Bose,Handbag,Clothing,9.0,1982.95,2023-10-13,HYDERABAD
+ORD-0445,Manish Nair,,Clothing,5.0,875.07,2023-03-10,Amdavad
+ORD-0396,Divya Verma,Sunglasses,Clothing,9.0,903.38,2023-10-14,bangalore
+ORD-0542,Neha Gupta,Data Science Guide,Books,10.0,825.48,2023-01-17,Channai
+ORD-0496,Ananya Pillai,camera,Electronics,5.0,33460.2,2023-06-26,PUNE
+ORD-0019,Rahul Kapoor,biscuits,Food,1.0,78.37,2023-12-03,Banglore
+ORD-0747,Sneha Joshi,Saree,Clothing,2.0,2895.5,2023-08-13,KOLKATA
+ORD-0523,Shreya Nair,ML Handbook,Books,4.0,798.68,2023-02-24,mumbai
+ORD-0595,Aarav Agarwal,Headphones,Electronics,1.0,3357.11,2023-05-23,Poona
+ORD-0480,Deepa Bose,History Book,Books,9.0,453.12,2023-11-05,hyd
+ORD-0368,Aarav Pillai,Science Textbook,Books,6.0,729.04,2023-03-02,hyd
+ORD-0084,Rahul Iyer,mirror,Home Decor,4.0,1564.32,2023-03-28,Suart
+ORD-0062,Manish Agarwal,Kurta,Clothing,,745.12,2023-03-19,calcutta
+ORD-0484,Deepa Chopra,Python Basics,Books,5.0,622.96,2023-12-26,Jaipur 
+ORD-0273,Suresh Bose,Photo Frame,Home Decor,2.0,444.05,2023-05-20,HYDERABAD
+ORD-0286,Amit Verma,Honey,Food,7.0,258.23,2023-08-02,kolkata
+ORD-0361,Suresh Sharma,Coffee,Food,8.0,386.58,2023-08-16,Jaipur 
+ORD-0355,Rajesh Nair,Chocolate,Food,9.0,130.68,2023-11-26,Mumbai
+ORD-0612,Priya Shah,Sneakers,Clothing,5.0,3269.47,2023-11-17,Poona
+ORD-0279,Ravi Pillai,Sunglasses ,Clothing,8.0,848.47,2023-03-27,amdavad
+ORD-0013,Arjun Malhotra,Spices,Food,9.0,164.96,2023-09-01,ahmedabad
+ORD-0183,Pooja Nair,cushion,Home Decor,8.0,563.7,2023-01-05,SURAT
+ORD-0369,Vikram Kumar,Kurta,Clothing,10.0,726.99,2023-09-12,ahmedabad
+ORD-0528,Shreya Chopra,Curtains,Home Decor,7.0,1864.04,2023-12-10,Amdavad
+ORD-0644,Rajesh Singh,T-Shirt,Clothing,4.0,474.12,2023-11-13,hyd
+ORD-0224,Suresh Mishra,,Books,2.0,480.16,2023-01-07,poona
+ORD-0600,Sneha Verma,camera,Electronics,10.0,,2023-10-27,MumbAI
+ORD-0766,Ananya Rao,Laptop,Electronics,2.0,56153.18,2023-01-06,delhi
+ORD-0707,,Sneakers,,5.0,2840.12,2023-01-20,HYDERABAD
+ORD-0571,Sneha Patel,Novel ,Books,4.0,301.26,2023-08-15,BANGALORE
+ORD-0487,Anjali Singh,Cushion,Home Decor,1.0,431.82,2023-12-31,Poona
+ORD-0466,Deepa Kapoor,novel,Books,8.0,288.74,2023-09-16,Channai
+ORD-0933,Amit Agarwal,ART BOOK,Books,5.0,629.93,2023-01-24,Suart
+ORD-0637,Suresh Sharma,Shoes,Clothing,,2524.46,2023-04-20,MumbAI
+ORD-0177,Ravi Reddy,sneakers,Clothing,2.0,3171.84,2023-12-26,Surat
+ORD-0696,Aarav Gupta,Lamp,Home Decor,7.0,1239.82,2023-04-16,surat 
+ORD-0656,Amit Nair,COOKBOOK,Books,4.0,355.31,2023-11-11,Madras
+ORD-0614,Arjun Joshi,Shoes,Clothing,9.0,2186.32,2023-12-05,bangalore
+ORD-0457,Kiran Bose,photo frame,Home Decor,1.0,341.36,2023-10-24,Bangalore
+ORD-0545,Ananya Joshi,Mirror,Home Decor,2.0,1863.79,2023-02-22,
+ORD-0394,Kavya Gupta,History Book,Books,5.0,487.32,2023-08-21,new delhi
+ORD-0164,Divya Mehta,Business Strategy,Books,10.0,505.37,2023-02-25,pune
+ORD-0249,Arjun Mehta,shoes,Clothing,4.0,2847.71,2023-12-13,Jaipur
+ORD-0663,Sneha Singh,,Electronics,8.0,8253.86,2023-02-28,Kolkata
+ORD-0921,Sneha Kumar,,Home Decor,2.0,388.69,2023-02-02,amdavad
+ORD-0998,Suresh Malhotra,Sunglasses,Clothing,1.0,712.84,2023-01-23,calcutta
+ORD-0376,Manish Joshi,Chocolate,Food,6.0,141.85,2023-10-13,jaipur
+ORD-0413,Sneha Chopra,MIRROR,Home Decor,2.0,2043.33,2023-09-25,PUNE
+ORD-0075,Amit Shah,Juice ,Food,9.0,63.72,2023-11-20,Madras
+ORD-0917,Pooja Kumar,SNEAKERS,Clothing,5.0,,2023-01-21,delhi
+ORD-0114,Pooja Bose,Saree ,Clothing,9.0,3277.31,2023-06-26,hyderabad
+ORD-0501,Deepa Reddy,Kurta,Clothing,3.0,847.56,2023-04-02,Madras
+ORD-0586,Manish Chopra,Jacket,Clothing,7.0,1844.09,2023-12-16,Hydrabad
+ORD-0115,Priya Singh,SMART WATCH,Electronics,10.0,,2023-06-09,surat
+ORD-0418,Arjun Reddy,Vase,Home Decor,10.0,758.88,2023-03-26,delhi
+ORD-0090,Pooja Mehta,Shoes,Clothing,9.0,2479.16,2023-11-11,SURT
+ORD-0959,Rahul Chopra,,Food,5.0,89.99,2023-07-27,bengaluru
+ORD-0902,Vikram Patel,Chips,Food,1.0,42.9,2023-05-03,Suart
+ORD-0634,Aarav Verma,Cushion,Home Decor,4.0,504.82,2023-02-17,Ahmedabad
+ORD-0678,Rajesh Chopra,Coffee,Food,8.0,387.74,2023-04-09,MumbAI
+ORD-0012,Pooja Joshi,BUSINESS STRATEGY,,2.0,570.49,2023-11-23,Suart
+ORD-0397,Ravi Patel,Wall Art,Home Decor,3.0,1661.29,2023-11-14,mumbai
+ORD-0558,Shreya Singh,Jacket,Clothing,5.0,1717.27,2023-12-07,Mumbai
+ORD-0043,Anjali Patel,JUICE,Food,2.0,51.62,2023-08-26,Surat
+ORD-0168,Kavya Reddy,smart watch,Electronics,5.0,7247.64,2023-12-20,Jaipur
+ORD-0417,Manish Bose,Juice,Food,4.0,56.28,2023-01-24,DELHI
+ORD-0788,Rahul Pillai,Handbag,Clothing,4.0,1940.51,2023-04-05,Ahmadabad
+ORD-0427,Rahul Gupta,Sunglasses,Clothing,10.0,785.97,2023-03-03,Dlehi
+ORD-0918,Pooja Agarwal,Tea,Food,6.0,226.91,2023-04-23,Poona
+ORD-0174,Amit Nair,Smart Watch,Electronics,,7343.59,2023-10-08,Kolkatta
+ORD-0715,Ananya Bose,Coffee,Food,3.0,381.86,2023-10-22,jaipur
+ORD-0732,Manish Chopra,Juice,Food,7.0,65.66,2023-11-13,hyderabad
+ORD-0258,Anjali Iyer,Saree,Clothing,6.0,3176.43,2023-11-28,Mumbai
+ORD-0336,Deepa Malhotra,Laptop,Electronics,9.0,47422.03,2023-11-10,pink city
+ORD-0016,Suresh Nair,ML Handbook,Books,10.0,633.51,2023-09-17,surat
+ORD-0658,Divya Rao,Business Strategy,Books,4.0,479.46,2023-05-05,Kolkatta
+ORD-0325,Vikram Sharma,ML Handbook,Books,6.0,795.52,2023-08-10,Mumbai
+ORD-0790,Anjali Bose,Speaker,Electronics,8.0,2835.46,2023-11-12,kolkata
+ORD-0223,Pooja Shah,ART BOOK,Books,4.0,482.96,2023-01-02,Ahmedabad
+ORD-0180,Ravi Pillai,Art Book,Books,6.0,490.19,2023-12-22,bengaluru
+ORD-0100,Anjali Sharma,Honey,Food,,264.71,2023-10-01,madras
+ORD-0522,Amit Kumar,science textbook,Books,6.0,626.77,2023-09-25,Delhi
+ORD-0023,Arjun Chopra,Laptop,Electronics,6.0,51570.39,2023-02-19,Poona
+ORD-0357,Rahul Nair,Mirror,Home Decor,9.0,1544.32,2023-07-26,Banglore
+ORD-0697,Ravi Reddy,dress,Clothing,2.0,1404.88,2023-10-03,HYDERABAD
+ORD-0897,Arjun Iyer,Smart Watch ,Electronics,1.0,7503.55,2023-07-23,
+ORD-0341,Ananya Singh,Jeans,Clothing,7.0,1196.98,2023-09-16,Chennai
+ORD-0432,Deepa Reddy,,Electronics,3.0,2696.13,2023-06-23,Pink City
+ORD-0577,Neha Mehta,Honey,Food,6.0,268.24,2023-07-08,madras
+ORD-0868,Deepa Joshi,Coffee ,Food,5.0,,2023-02-09,Dlehi
+ORD-0204,Neha Rao,Sunglasses ,Clothing,7.0,895.65,2023-04-12,pink city
+ORD-0737,Aarav Bose,Sunglasses,Clothing,4.0,774.19,2023-02-07,Poona
+ORD-0094,Kiran Bose,Handbag,Clothing,4.0,2036.77,2023-07-26,Amdavad
+ORD-0584,Arjun Kumar,Science Textbook,Books,8.0,616.61,2023-08-18,Jaipur 
+ORD-0069,Neha Bose,curtains,Home Decor,1.0,1744.73,2023-03-15,AHMEDABAD
+ORD-0651,Pooja Singh,saree,Clothing,8.0,2628.23,2023-12-09,jaipur
+ORD-0285,Divya Kumar,Protein Bar,Food,4.0,122.82,2023-02-23,MumbAI
+ORD-0837,Kiran Pillai,Plant Pot,Home Decor,6.0,393.56,2023-03-28,AHMEDABAD
+ORD-0435,Rajesh Mehta,Chocolate,Food,5.0,131.28,2023-01-24,Suart
+ORD-0154,Rajesh Pillai,protein bar,Food,153.0,119.62,2023-01-20,Bangalore
+ORD-0076,Neha Chopra,speaker,Electronics,7.0,2671.76,2023-04-01,Bangalore
+ORD-0762,Rahul Gupta,Dress,Clothing,2.0,1415.27,2023-06-02,calcutta
+ORD-0447,Shreya Bose,Monitor,Electronics,6.0,17187.0,2023-01-03,MUMBAI
+ORD-0189,Aarav Singh,Sunglasses,Clothing,4.0,807.12,2023-09-24,ahmedabad
+ORD-0272,Divya Agarwal,HEADPHONES,Electronics,,3279.1,2023-08-22,
+ORD-0237,Suresh Kapoor,Handbag,Clothing,4.0,1868.46,2023-11-26,surat 
+ORD-0488,Arjun Singh,Wall Art,Home Decor,1.0,1401.43,2023-10-11,surat 
+ORD-0560,Rajesh Shah,Biscuits,Food,10.0,82.89,2023-07-15,HYDERABAD
+ORD-0118,Anjali Mehta,Business Strategy,Books,10.0,452.99,2023-07-16,hyderabad
+ORD-0852,Manish Pillai,Jeans,Clothing,,1289.99,2023-08-17,New Delhi
+ORD-0513,Shreya Kapoor,Chocolate,Food,8.0,169.47,2023-10-20,CHENNAI
+ORD-0579,Kavya Pillai,Clock,Home Decor,2.0,997.63,2023-10-07,hyd
+ORD-0828,Kavya Joshi,Jeans,Clothing,4.0,1144.9,2023-06-06,pune
+ORD-0127,Rahul Joshi,speaker,Electronics,9.0,2738.51,2023-08-22,Suart
+ORD-0117,Suresh Singh,Self Help Book,Books,1.0,436.44,2023-02-22,Surat
+ORD-0474,Priya Mehta,Wall Art,Home Decor,9.0,1676.01,2023-06-25,Delhi
+ORD-0724,Ananya Patel,Cookies,Food,1.0,107.23,2023-06-11,hyd
+ORD-0058,Priya Singh,sunglasses,Clothing,10.0,727.04,2023-09-29,Bengaluru
+ORD-0705,,Spices,Food,1.0,130.35,2023-08-24,SURAT
+ORD-0949,Manish Chopra,tablet,Electronics,4.0,20019.01,2023-07-13,SURT
+ORD-0370,Anjali Mishra,Mirror,Home Decor,6.0,1567.46,2023-12-01,surat
+ORD-0269,Anjali Singh,Smart Watch,Electronics,3.0,,2023-02-28,JAIPUR
+ORD-0047,Suresh Mehta,Vase,Home Decor,10.0,,2023-11-21,hyd
+ORD-0350,Amit Mishra,Lamp,Home Decor,7.0,1245.31,2023-05-23,surat
+ORD-0196,Kavya Patel,Python Basics,Books,7.0,572.86,2023-02-23,Banglore
+ORD-0103,Priya Rao,Dress,Clothing,9.0,1416.46,2023-01-08,Channai
+ORD-0869,Deepa Singh,Protein Bar,Food,2.0,133.02,2023-02-08,Suart
+ORD-0722,Deepa Patel,Headphones,Electronics,7.0,2713.11,2023-07-27,Hyd
+ORD-0768,Arjun Kumar,ml handbook,Books,4.0,779.12,2023-10-12,Calcutta
+ORD-0264,Amit Sharma,SAREE,Clothing,4.0,3016.5,2023-05-18,jaipur
+ORD-0444,Arjun Reddy,Smartphone,Electronics,7.0,24029.82,2023-09-16,HYDERABAD
+ORD-0706,Suresh Gupta,spices,Food,6.0,172.05,2023-06-19,Mumbai
+ORD-0305,Suresh Kapoor,Jacket,Clothing,2.0,2135.65,2023-01-24,mumbai
+ORD-0342,Rajesh Patel,HISTORY BOOK,Books,2.0,446.42,2023-08-29,Channai
+ORD-0627,Rajesh Mehta,Handbag,Clothing,4.0,1977.52,2023-02-04,Pun
+ORD-0899,Rahul Bose,Self Help Book,Books,4.0,341.56,2023-09-15,DELHI
+ORD-0150,Anjali Malhotra,JEANS,Clothing,9.0,1120.31,2023-03-05,CHENNAI
+ORD-0125,Sneha Patel,Vase,Home Decor,7.0,734.7,2023-06-02,SURAT
+ORD-0818,Rahul Reddy,Laptop,Electronics,7.0,53333.54,2023-05-26,hyd
+ORD-0856,Aarav Rao,camera,Electronics,4.0,31752.22,2023-10-10,Pink City
+ORD-0051,Anjali Chopra,Art Book,Books,8.0,627.48,2023-02-06,MumbAI
+ORD-0354,Arjun Mishra,Data Science Guide,Books,6.0,719.1,2023-10-09,SURAT
+ORD-0967,Kavya Chopra,art book,Books,1.0,586.14,2023-03-13,bengaluru
+ORD-0143,Kiran Pillai,SPICES,Food,9.0,149.88,2023-04-25,jaipur
+ORD-0471,Manish Pillai,laptop,Electronics,6.0,2347.5275,2023-05-08,SURT
+ORD-0400,Shreya Singh,Protein Bar,Food,3.0,129.16,2023-12-03,MumbAI
+ORD-0654,Suresh Agarwal,Jacket,Clothing,10.0,2147.26,2023-05-04,mumbai
+ORD-0321,Divya Patel,Laptop,Electronics,8.0,55812.24,2023-12-19,Pune
+ORD-0020,Sneha Shah,data science guide,Books,7.0,749.89,2023-10-13,Calcutta
+ORD-0843,Sneha Pillai,mirror,Home Decor,3.0,1626.14,2023-11-25,KOLKATA
+ORD-0947,Aarav Gupta,Cookbook,Books,5.0,356.43,2023-07-12,Amdavad
+ORD-0842,Kavya Chopra,T-Shirt,Clothing,5.0,524.53,2023-12-31,pune
+ORD-0408,Shreya Kumar,plant pot,Home Decor,4.0,298.64,2023-06-24,Channai
+ORD-0538,Kavya Shah,Headphones,Electronics,2.0,2772.61,2023-12-20,SURT
+ORD-0880,Anjali Malhotra,Camera,Electronics,5.0,32080.71,2023-10-10,chennai
+ORD-0039,Neha Bose,Clock,Home Decor,7.0,1055.27,2023-07-10,Pink City
+ORD-0176,Divya Verma,Dress,Clothing,8.0,1353.46,2023-08-31,Madras
+ORD-0246,Pooja Malhotra,Self Help Book,Books,10.0,451.4,2023-01-21,New Delhi
+ORD-0938,Rajesh Patel,Data Science Guide,Books,2.0,899.43,2023-12-27,amdavad
+ORD-0698,Suresh Shah,Lamp,Home Decor,5.0,1229.25,2023-12-26,Delhi
+ORD-0786,Priya Bose,Chips,Food,6.0,56.13,2023-03-14,jaipur
+ORD-0894,Amit Patel,Headphones,Electronics,9.0,2907.47,2023-09-14,pune
+ORD-0155,Suresh Nair,Vase,Home Decor,9.0,916.56,2023-07-12,Delhi
+ORD-0288,Amit Mehta,KEYBOARD,Electronics,5.0,1519.19,2023-09-05,Poona
+ORD-0631,Amit Verma,Sneakers,Clothing,6.0,3192.01,2023-10-06,pink city
+ORD-0570,Ravi Verma,,Electronics,9.0,23861.92,2023-11-14,hyderabad
+ORD-0775,Priya Patel,History Book,Books,7.0,490.13,2023-07-21,MUMBAI
+ORD-0018,Suresh Singh,Cushion,Home Decor,7.0,503.71,2023-03-29,JAIPUR
+ORD-0128,Neha Mishra,cookies,Food,3.0,110.82,2023-09-24,CHENNAI
+ORD-0323,Rahul Patel,Curtains,Home Decor,1.0,2096.12,2023-11-13,bangalore
+ORD-0256,Vikram Verma,Handbag,Clothing,2.0,2034.08,2023-03-12,bangalore
+ORD-0993,Divya Kumar,Dress,Clothing,1.0,1397.47,2023-03-24,Poona
+ORD-0716,Pooja Nair,Self Help Book,Books,7.0,451.54,2023-04-27,madras
+ORD-0191,Divya Patel,KURTA,Clothing,7.0,702.34,2023-11-15,SURT
+ORD-0116,Priya Kapoor,Camera,Electronics,9.0,38900.34,2023-03-08,Amdavad
+ORD-0645,Arjun Pillai,Speaker,Electronics,10.0,2214.82,2023-09-29,Mumbai 
+ORD-0607,Divya Mishra,Chocolate,Food,5.0,136.79,2023-01-21,Dlehi
+ORD-0181,Shreya Nair,Art Book,Books,8.0,523.78,2023-12-18,hyderabad
+ORD-0302,Anjali Nair,Cookies,Food,6.0,100.94,2023-02-27,AHMEDABAD
+ORD-0791,Arjun Pillai,Cookies,Food,1.0,89.6,2023-05-10,new delhi
+ORD-0744,Neha Agarwal,Self Help Book,Books,,400.33,2023-11-07,hyd
+ORD-0755,Kiran Pillai,Speaker,Electronics,6.0,2229.45,2023-04-23,Bengaluru
+ORD-0716,Pooja Nair,Self Help Book,Books,7.0,451.54,2023-04-27,madras
+ORD-0793,Neha Shah,Spices,Food,5.0,150.26,2023-02-28,Mumabi
+ORD-0518,Sneha Bose,Dress,Clothing,7.0,1639.75,2023-10-01,surat
+ORD-0373,Shreya Bose,monitor,Electronics,9.0,13174.99,2023-07-26,AHMEDABAD
+ORD-0046,Vikram Malhotra,Monitor ,Electronics,8.0,15731.35,2023-01-28,Chennai
+ORD-0946,Anjali Singh,Chips ,Food,7.0,42.66,2023-03-31,Jaipur
+ORD-0158,Manish Verma,Rug,Home Decor,5.0,3235.46,2023-10-01,Mumabi
+ORD-0961,Deepa Gupta,Saree,Clothing,1.0,2624.52,2023-06-26,Hydrabad
+ORD-0172,Aarav Chopra,SHOES,Clothing,3.0,2137.44,2023-07-14,Dlehi
+ORD-0017,Amit Mehta,Honey,Food,10.0,282.38,2023-06-03,SURT
+ORD-0512,Priya Rao,Sneakers,Clothing,2.0,2926.42,2023-10-26,KOLKATA
+ORD-0049,Arjun Verma,Tea,Food,,202.8,2023-10-25,hyderabad
+ORD-0571,Sneha Patel,Novel ,Books,4.0,301.26,2023-08-15,BANGALORE
+ORD-0875,Aarav Pillai,PLANT POT,Home Decor,6.0,300.17,2023-10-24,Pune
+ORD-0516,Amit Pillai,camera,Electronics,2.0,30026.85,2023-08-02,BANGALORE
+ORD-0717,Vikram Pillai,Headphones,Electronics,5.0,3297.56,2023-05-13,Mumbai
+ORD-0481,Shreya Singh,,Electronics,6.0,15582.29,2023-12-25,MUMBAI
+ORD-0284,Suresh Rao,rug,Home Decor,2.0,2634.58,2023-03-23,surat
+ORD-0750,Rahul Kapoor,JEANS,Clothing,8.0,1244.73,2023-12-05,mumbai
+ORD-0866,Ananya Pillai,Sneakers,Clothing,2.0,3053.68,2023-05-15,calcutta
+ORD-0226,Sneha Kapoor,Chocolate,Food,1.0,138.48,2023-02-15,bangalore
+ORD-0027,Kavya Malhotra,Spices ,Food,7.0,136.49,2023-10-14,pune
+ORD-0814,Neha Mehta,Vase,Home Decor,9.0,901.0,2023-12-10,delhi
+ORD-0438,Amit Nair,Clock,Home Decor,10.0,1096.56,2023-10-29,Calcutta
+ORD-0991,Ravi Verma,tablet,Electronics,9.0,196168.5,2023-04-18,jaipur
+ORD-0365,Ravi Rao,Plant Pot,Home Decor,7.0,396.35,2023-09-13,BANGALORE
+ORD-0230,,Headphones,Electronics,6.0,3118.02,2023-09-10,delhi
+ORD-0038,Divya Joshi,Cookies,Food,10.0,87.93,2023-06-19,Mumbai 
+ORD-0670,Pooja Rao,chocolate,Food,,140.33,2023-07-11,calcutta
+ORD-0425,Neha Joshi,Novel,Books,6.0,260.18,2023-04-11,bengaluru
+ORD-0375,Deepa Joshi,Smartphone,Electronics,2.0,21783.91,2023-01-19,Bangalore
+ORD-0470,Suresh Singh,coffee,Food,3.0,455.59,2023-12-21,Surat
+ORD-0549,Arjun Nair,Rug ,Home Decor,8.0,3018.28,2023-04-25,MUMBAI
+ORD-0886,Divya Sharma,Speaker,Electronics,2.0,2258.91,2023-03-18,Suart
+ORD-0735,Rahul Kapoor,Biscuits,Food,5.0,76.61,2023-01-24,Dlehi
+ORD-0757,Kavya Verma,Vase,Home Decor,3.0,828.82,2023-07-20,amdavad
+ORD-0195,Priya Reddy,Mouse,Electronics,3.0,761.37,2023-08-03,pune
+ORD-0890,Aarav Shah,speaker,Electronics,3.0,2307.38,2023-10-29,Hyd
+ORD-0900,Priya Reddy,Mouse,Electronics,7.0,700.52,2023-01-06,mumbai
+ORD-0504,Arjun Chopra,Kurta,Clothing,5.0,875.31,2023-12-22,pink city
+ORD-0852,Manish Pillai,Jeans,Clothing,,1289.99,2023-08-17,New Delhi
+ORD-0865,Amit Chopra,Vase,Home Decor,5.0,776.18,2023-04-11,poona
+ORD-0580,Kiran Nair,Coffee,Food,9.0,370.99,2023-11-05,Calcutta
+ORD-0538,Kavya Shah,Headphones,Electronics,2.0,2772.61,2023-12-20,SURT
+ORD-0681,Kavya Mishra,Saree,Clothing,10.0,3285.36,2023-02-12,amdavad
+ORD-0163,Sneha Kumar,smart watch,Electronics,5.0,8320.47,2023-12-05,JAIPUR
+ORD-0733,Anjali Pillai,Novel,Books,4.0,314.87,2023-02-02,Mumbai
+ORD-0153,Pooja Malhotra,T-Shirt,Clothing,2.0,446.73,2023-11-30,SURAT
+ORD-0712,Priya Kumar,Python Basics,Books,9.0,617.21,2023-05-09,Bangalore
+ORD-0731,Neha Verma,Saree,Clothing,10.0,2697.84,2023-11-25,Channai
+ORD-0787,Sneha Rao,Shoes,Clothing,5.0,2562.54,2023-03-24,
+ORD-0112,Sneha Mishra,Mirror,Home Decor,10.0,1617.06,2023-04-26,pink city
+ORD-0227,Rajesh Mehta,Biscuits,Food,6.0,91.35,2023-02-26,Calcutta
+ORD-0719,Pooja Singh,Science Textbook,Books,,576.74,2023-07-18,Jaipur
+ORD-0104,Rahul Pillai,Honey,Food,7.0,300.77,2023-06-14,mumbai
+ORD-0422,Ananya Singh,cookbook,Books,2.0,434.75,2023-02-24,pune
+ORD-0420,,Shoes,Clothing,2.0,2689.28,2023-03-13,Dlehi
+ORD-0782,Arjun Malhotra,Saree,Clothing,3.0,3038.45,2023-04-19,Kolkata
+ORD-0587,Kavya Kumar,Chocolate,Food,9.0,130.91,2023-02-08,jaipur
+ORD-0812,Kavya Sharma,Spices,Food,,165.25,2023-07-02,MumbAI
+ORD-0673,Rahul Kumar,self help book,Books,10.0,349.63,2023-08-17,Mumabi
+ORD-0120,Arjun Verma,Honey,Food,8.0,303.54,2023-10-29,new delhi
+ORD-0054,Rajesh Kapoor,Jeans,Clothing,6.0,1342.14,2023-09-14,Pun
+ORD-0152,Ananya Kumar,,Books,9.0,368.75,2023-12-31,chennai
+ORD-0404,Suresh Gupta,self help book,Books,1.0,439.17,2023-02-19,SURAT
+ORD-0985,Deepa Gupta,Sneakers ,Clothing,5.0,3205.37,2023-06-19,Kolkata
+ORD-0208,,smartphone,Electronics,1.0,26226.26,2023-09-25,CHENNAI
+ORD-0659,Manish Agarwal,Headphones,Electronics,6.0,156.56650000000002,2023-01-21,Banglore
+ORD-0925,Neha Bose,Dress,Clothing,5.0,1466.35,2023-01-22,Bengaluru
+ORD-0794,Kavya Reddy,Rug,Home Decor,4.0,3100.31,2023-04-03,Pun
+ORD-0009,,Laptop,Electronics,6.0,56668.4,2023-04-24,Mumbai 
+ORD-0980,Divya Malhotra,Art Book,Books,1.0,565.98,2023-11-05,Amdavad
+ORD-0037,Ananya Gupta,laptop,Electronics,2.0,51776.13,2023-08-04,PUNE
+ORD-0453,Rajesh Malhotra,Plant Pot,Home Decor,4.0,342.04,2023-09-05,Mumbai 
+ORD-0652,Shreya Bose,smart watch,Electronics,1.0,8089.06,2023-06-27,Poona
+ORD-0254,Rahul Joshi,ml handbook,Books,7.0,661.55,2023-01-24,chennai
+ORD-0304,Aarav Kapoor,Kurta,Clothing,5.0,832.98,2023-08-14,CHENNAI
+ORD-0778,Ananya Agarwal,protein bar,Food,7.0,128.0,2023-02-13,Calcutta
+ORD-0572,Deepa Bose,MOUSE,Electronics,2.0,868.08,2023-04-26,Pun
+ORD-0624,Amit Malhotra,PLANT POT,Home Decor,7.0,348.37,2023-04-23,Madras
+ORD-0741,Pooja Reddy,Chips,Food,1.0,49.44,2023-05-29,Channai
+ORD-0751,Deepa Rao,KURTA,Clothing,6.0,708.06,2023-01-16,CHENNAI
+ORD-0263,Manish Joshi,SHOES,Clothing,5.0,2230.06,2023-11-15,Banglore
+ORD-0611,Pooja Nair,Monitor,Electronics,6.0,12926.9,2023-01-27,kolkata
+ORD-0298,,Biscuits,,9.0,73.18,2023-12-17,delhi
+ORD-0415,Ananya Agarwal,chips,Food,3.0,51.98,2023-12-26,hyd
+ORD-0151,Ananya Patel,chocolate,Food,3.0,168.37,2023-07-07,chennai
+ORD-0820,Divya Pillai,t-shirt,Clothing,4.0,475.28,2023-02-05,DELHI
+ORD-0641,Sneha Kumar,Laptop,Electronics,2.0,47081.17,2023-07-04,PUNE
+ORD-0926,Kavya Bose,T-Shirt,Clothing,10.0,428.37,2023-12-09,Surat
+ORD-0551,Deepa Chopra,Photo Frame,Home Decor,8.0,402.42,2023-10-15,poona
+ORD-0823,Ananya Kapoor,Vase,Home Decor,6.0,760.04,2023-09-06,mumbai
+ORD-0489,Amit Iyer,Juice,Food,8.0,68.11,2023-11-20,
+ORD-0711,Neha Agarwal,T-Shirt,Clothing,9.0,539.03,2023-04-02,Hyd
+ORD-0148,Anjali Kapoor,Handbag,Clothing,8.0,2001.61,2023-09-16,Madras
+ORD-0147,Ananya Kumar,Clock,Home Decor,9.0,1032.87,2023-10-29,Banglore
+ORD-0752,Anjali Rao,Art Book,Books,8.0,622.57,2023-08-31,Kolkatta
+ORD-0971,Rahul Kumar,Mirror,Home Decor,2.0,1888.38,2023-02-09,bengaluru
+ORD-0771,Rajesh Patel,Python Basics,Books,10.0,529.91,2023-01-22,pune
+ORD-0660,Kiran Reddy,speaker,Electronics,7.0,2553.08,2023-12-16,Delhi
+ORD-0349,Kavya Bose,Honey,Food,10.0,288.72,2023-06-19,Ahmadabad
+ORD-0464,Neha Rao,Cookies,Food,1.0,102.5,2023-11-07,new delhi
+ORD-0326,Ananya Verma,Smartphone,Electronics,6.0,26784.23,2023-12-05,Madras
+ORD-0187,,Laptop,Electronics,5.0,60234.17,2023-02-21,KOLKATA
+ORD-0124,Arjun Chopra,T-Shirt,Clothing,6.0,441.51,2023-01-24,hyd
+ORD-0889,Kavya Nair,Camera,Electronics,7.0,30794.13,2023-04-25,SURT
+ORD-0609,Pooja Singh,Jeans,Clothing,8.0,1201.23,2023-06-15,pink city
+ORD-0144,Neha Patel,Cushion,Home Decor,4.0,470.13,2023-03-09,AHMEDABAD
+ORD-0577,Neha Mehta,Honey,Food,6.0,268.24,2023-07-08,madras
+ORD-0198,Anjali Singh,Mirror,Home Decor,10.0,2014.44,2023-11-13,mumbai
+ORD-0610,Shreya Agarwal,Plant Pot,Home Decor,2.0,369.99,2023-11-02,Ahmadabad
+ORD-0280,Shreya Joshi,Shoes,Clothing,9.0,2721.84,2023-02-27,Mumbai 
+ORD-0294,Manish Malhotra,Honey,Food,7.0,287.42,2023-07-14,SURT
+ORD-0401,Aarav Malhotra,ML Handbook,Books,6.0,616.66,2023-07-06,Pun
+ORD-0123,,Vase,Home Decor,5.0,756.32,2023-02-03,new delhi
+ORD-0184,Priya Sharma,CLOCK,Home Decor,1.0,1113.2,2023-06-04,kolkata
+ORD-0203,Pooja Sharma,Coffee,Food,2.0,359.4,2023-09-12,HYDERABAD
+ORD-0439,Amit Kumar,Mirror,Home Decor,8.0,1911.37,2023-03-05,Pun
+ORD-0247,Ananya Rao,Coffee,Food,56.0,391.38,2023-05-29,Jaipur
+ORD-0416,Anjali Pillai,Wall Art,Home Decor,,1476.8,2023-02-24,Mumbai 
+ORD-0808,Divya Kapoor,JACKET,Clothing,2.0,2255.34,2023-04-12,Ahmadabad
+ORD-0797,Priya Rao,Spices,Food,2.0,169.45,2023-01-28,Mumbai 
+ORD-0960,Divya Reddy,Headphones,Electronics,10.0,3214.23,2023-06-30,Mumbai 
+ORD-0800,Manish Reddy,Art Book,Books,1.0,619.71,2023-11-27,Mumbai
+ORD-0924,Ananya Mishra,Jacket,Clothing,6.0,2179.91,2023-04-30,kolkata
+ORD-0130,Vikram Kapoor,MOUSE,Electronics,10.0,802.58,2023-09-26,amdavad
+ORD-0638,Neha Nair,mirror,Home Decor,8.0,1660.93,2023-12-06,poona
+ORD-0403,Shreya Bose,Self Help Book,Books,7.0,400.63,2023-02-28,SURT
+ORD-0937,Kavya Kapoor,Photo Frame,Home Decor,5.0,342.21,2023-02-22,JAIPUR
+ORD-0802,Amit Rao,Jacket,Clothing,6.0,1791.52,2023-02-07,Hyderabad
+ORD-0736,Priya Mishra,headphones,Electronics,1.0,3339.48,2023-12-25,madras
+ORD-0950,Sneha Nair,Chips,Food,2.0,51.46,2023-07-07,Calcutta
+ORD-0220,Neha Malhotra,T-Shirt,Clothing,6.0,552.38,2023-09-04,HYDERABAD
+ORD-0642,Shreya Bose,Cushion,Home Decor,2.0,473.31,2023-05-31,Hyd
+ORD-0952,Vikram Agarwal,mirror,Home Decor,2.0,1889.12,2023-12-01,hyderabad
+ORD-0784,Ananya Iyer,Clock,Home Decor,85.0,953.71,2023-11-27,amdavad
+ORD-0888,Priya Kapoor,ML Handbook,Books,9.0,645.02,2023-07-20,KOLKATA
+ORD-0957,Arjun Kumar,Camera,Electronics,6.0,35198.64,2023-04-25,Mumbai 
+ORD-0625,Vikram Kumar,CURTAINS,Home Decor,5.0,2070.95,2023-04-05,Pune
+ORD-0873,Sneha Iyer,mouse,Electronics,4.0,8345.599999999999,2023-01-16,New Delhi
+ORD-0923,Deepa Bose,Keyboard,Electronics,6.0,1677.55,2023-07-09,Amdavad
+ORD-0387,Divya Gupta,mirror,Home Decor,7.0,1682.3,2023-12-02,Pink City
+ORD-0188,Pooja Chopra,PHOTO FRAME,Home Decor,10.0,406.62,2023-12-06,PUNE
+ORD-0510,Rajesh Kapoor,,Books,4.0,587.24,2023-10-15,Dlehi
+ORD-0268,Priya Chopra,vase,Home Decor,5.0,848.6,2023-04-04,Jaipur 
+ORD-0853,Kavya Joshi,Cookies,Food,9.0,91.3,2023-07-03,DELHI
+ORD-0442,Rajesh Reddy,Camera,Electronics,10.0,40109.72,2023-12-04,jaipur
+ORD-0497,Amit Kumar,Cookies,Food,4.0,102.51,2023-12-11,New Delhi
+ORD-0113,Kavya Mishra,Novel,Books,2.0,338.67,2023-12-22,KOLKATA
+ORD-0692,,Shoes,Clothing,3.0,2444.08,2023-04-20,mumbai
+ORD-0233,Suresh Agarwal,keyboard,Electronics,10.0,1534.61,2023-09-19,Hydrabad
+ORD-0905,Divya Iyer,Cookies,Food,4.0,97.64,2023-03-26,Poona
+ORD-0608,Rajesh Verma,ML HANDBOOK,Books,10.0,671.5,2023-03-20,ahmedabad
+ORD-0672,,camera,Electronics,9.0,39166.04,2023-09-18,bangalore
+ORD-0374,Aarav Kumar,Biscuits,Food,10.0,84.39,2023-07-31,surat 
+ORD-0322,Kavya Joshi,curtains,Home Decor,9.0,2128.76,2023-12-25,Pink City
+ORD-0878,Pooja Sharma,Mirror,Home Decor,157.0,1885.82,2023-04-19,Calcutta
+ORD-0234,Suresh Singh,lamp,Home Decor,8.0,1197.31,2023-02-08,hyd
+ORD-0817,Amit Verma,Python Basics,Books,4.0,616.43,2023-02-21,hyderabad
+ORD-0677,Divya Patel,ART BOOK,Books,10.0,,2023-11-30,bangalore
+ORD-0318,Ravi Mishra,Python Basics,Books,,541.19,2023-06-23,MUMBAI
+ORD-0649,Aarav Patel,Mouse,Electronics,7.0,869.4,2023-01-05,Jaipur
+ORD-0411,Rajesh Reddy,coffee,Food,4.0,378.32,2023-05-30,MUMBAI
+ORD-0935,Amit Kumar,clock,,2.0,901.5,2023-11-29,Suart
+ORD-0710,Priya Verma,Vase,Home Decor,10.0,843.56,2023-01-28,Jaipur
+ORD-0359,Arjun Malhotra,ML Handbook,Books,9.0,792.45,2023-02-10,Bengaluru
+ORD-0259,Ananya Kumar,Sneakers,Clothing,3.0,153.153,2023-03-29,KOLKATA
+ORD-0745,Arjun Shah,Self Help Book,Books,,,2023-02-14,JAIPUR
+ORD-0628,Anjali Rao,Photo Frame,Home Decor,3.0,429.7,2023-09-16,Calcutta
+ORD-0633,Neha Singh,Sneakers,,2.0,3010.51,2023-07-26,New Delhi
+ORD-0283,Anjali Nair,Science Textbook ,,8.0,625.74,2023-01-31,PUNE
+ORD-0377,Deepa Malhotra,ML Handbook,Books,7.0,772.42,2023-10-09,AHMEDABAD
+ORD-0385,Sneha Mehta,Science Textbook,Books,7.0,695.84,2023-10-15,Kolkatta
+ORD-0225,Ananya Pillai,Sneakers,Clothing,4.0,,2023-12-10,Hyd
+ORD-0995,Rajesh Malhotra,Art Book ,Books,,527.06,2023-07-30,Pink City
+ORD-0848,,Keyboard,Electronics,4.0,1723.59,2023-12-14,ahmedabad
+ORD-0473,Arjun Mishra,Dress,Clothing,10.0,1294.42,2023-07-23,Suart
+ORD-0348,Sneha Mishra,Smartphone,Electronics,2.0,21589.78,2023-05-04,MumbAI
+ORD-0506,Suresh Chopra,HISTORY BOOK,Books,1.0,404.45,2023-06-15,Chennai
+ORD-0640,Pooja Pillai,sneakers,Clothing,4.0,2889.56,2023-06-19,Hyd
+ORD-0168,Kavya Reddy,smart watch,Electronics,5.0,7247.64,2023-12-20,Jaipur
+ORD-0798,Rahul Rao,T-Shirt,Clothing,8.0,509.77,2023-10-09,Surat
+ORD-0968,Rajesh Shah,Coffee,Food,2.0,375.65,2023-08-14,HYDERABAD
+ORD-0942,Rahul Malhotra,SMARTPHONE,Electronics,3.0,,2023-05-15,Dlehi
+ORD-0620,Arjun Kumar,Novel ,Books,6.0,322.34,2023-02-07,delhi
+ORD-0891,Rahul Shah,Smart Watch,Electronics,9.0,8533.44,2023-05-29,Kolkata
+ORD-0836,Deepa Kapoor,Chocolate,Food,10.0,146.35,2023-08-08,Ahmedabad
+ORD-0646,Anjali Agarwal,Curtains,Home Decor,9.0,2234.32,2023-09-01,jaipur
+ORD-0882,Rahul Pillai,Art Book,Books,2.0,,2023-10-06,mumbai
+ORD-0557,Vikram Kapoor,Smart Watch,Electronics,5.0,7121.64,2023-12-21,Jaipur 
+ORD-1000,Rahul Patel,Spices,Food,4.0,147.57,2023-10-21,Jaipur 
+ORD-0578,Amit Chopra,Wall Art,Home Decor,2.0,1691.96,2023-10-29,Bengaluru
+ORD-0796,Suresh Agarwal,T-Shirt,Clothing,6.0,555.82,2023-10-18,MUMBAI
+ORD-0086,Amit Verma,MONITOR,Electronics,5.0,14213.32,2023-03-23,
+ORD-0243,Manish Chopra,BISCUITS,Food,3.0,89.96,2023-01-26,delhi
+ORD-0699,Aarav Gupta,Data Science Guide,Books,1.0,717.05,2023-08-11,New Delhi
+ORD-0910,Sneha Shah,Camera,Electronics,2.0,33736.77,2023-04-02,Calcutta
+ORD-0160,Suresh Kumar,Tablet,Electronics,8.0,19232.37,2023-01-25,Calcutta
+ORD-0525,Manish Kumar,Headphones,Electronics,4.0,3304.5,2023-07-15,Hyderabad
+ORD-0036,Ravi Kumar,Rug,Home Decor,3.0,3277.56,2023-06-07,poona
+ORD-0541,Pooja Malhotra,Tea,Food,7.0,227.24,2023-10-05,MUMBAI
+ORD-0171,Ananya Pillai,self help book,Books,8.0,421.31,2023-08-16,Bengaluru
+ORD-0655,Amit Kumar,Rug,Home Decor,8.0,2938.49,2023-11-25,amdavad
+ORD-0927,Priya Shah,Data Science Guide,Books,7.0,744.48,2023-04-16,Suart
+ORD-0893,,Jeans ,Clothing,5.0,1318.88,2023-08-26,surat 
+ORD-0883,Kavya Kumar,Curtains,Home Decor,10.0,1711.83,2023-10-04,Bengaluru
+ORD-0984,Kiran Verma,CLOCK,Home Decor,3.0,872.54,2023-08-01,SURT
+ORD-0734,Divya Shah,Cookies,Food,8.0,100.69,2023-10-27,Mumabi
+ORD-0096,Anjali Kumar,cookies,Food,5.0,99.81,2023-09-02,JAIPUR
+ORD-0564,Aarav Malhotra,Science Textbook,Books,9.0,555.34,2023-06-10,KOLKATA
+ORD-0241,Neha Agarwal,rug,Home Decor,1.0,3396.41,2023-05-16,Channai
+ORD-0743,Aarav Rao,Biscuits,Food,9.0,85.94,2023-06-04,DELHI
+ORD-0575,Rahul Reddy,self help book,Books,6.0,443.48,2023-12-30,SURT
+ORD-0691,Rajesh Joshi,Kurta,Clothing,2.0,757.68,2023-11-19,jaipur
+ORD-0461,Shreya Shah,Data Science Guide,Books,3.0,708.21,2023-07-18,calcutta
+ORD-0554,Rajesh Reddy,CURTAINS,Home Decor,1.0,2036.56,2023-09-19,Jaipur
+ORD-0858,Amit Verma,Laptop,Electronics,6.0,54539.1,2023-03-31,pune
+ORD-0914,Shreya Iyer,Art Book,Books,7.0,535.05,2023-03-16,mumbai
+ORD-0207,Sneha Kapoor,Mouse,Electronics,9.0,704.35,2023-05-15,Bangalore
+ORD-0393,Deepa Joshi,Smart Watch,Electronics,6.0,7692.84,2023-04-25,Kolkata
+ORD-0795,Manish Mishra,self help book,Books,6.0,342.17,2023-12-10,Jaipur
+ORD-0398,Priya Chopra,ML Handbook,Books,10.0,685.09,2023-11-04,New Delhi
+ORD-0767,Suresh Verma,,Electronics,7.0,3236.21,2023-10-11,
+ORD-0884,Kiran Chopra,Protein Bar,Food,9.0,105.75,2023-08-30,JAIPUR
+ORD-0218,Suresh Sharma,mirror,Home Decor,,1933.11,2023-04-17,surat 
+ORD-0005,Rahul Malhotra,Curtains ,Home Decor,1.0,1793.61,2023-12-29,mumbai
+ORD-0769,Shreya Bose,Camera,Electronics,8.0,33341.86,2023-03-14,jaipur
+ORD-0643,Kavya Pillai,smart watch,Electronics,1.0,7307.48,2023-04-22,Bengaluru
+ORD-0934,Arjun Patel,protein bar,Food,10.0,120.92,2023-01-21,Kolkata
+ORD-0613,Vikram Bose,Biscuits ,Food,10.0,83.07,2023-11-12,
+ORD-0739,Rajesh Mishra,Tablet,Electronics,9.0,17671.33,2023-09-15,calcutta
+ORD-0547,Amit Joshi,dress,Clothing,10.0,1326.1,2023-12-12,Hydrabad
+ORD-0726,Deepa Mehta,Mouse,Electronics,8.0,882.04,2023-07-19,kolkata
+ORD-0954,Vikram Singh,Biscuits,Food,3.0,89.95,2023-09-22,
+ORD-0684,Kavya Singh,Lamp,Home Decor,2.0,1260.71,2023-10-03,madras
+ORD-0099,Anjali Malhotra,Art Book,Books,7.0,471.69,2023-01-20,Jaipur 
+ORD-0805,Deepa Kapoor,Lamp,Home Decor,4.0,,2023-02-04,chennai
+ORD-0728,Deepa Rao,Monitor,Electronics,4.0,16328.7,2023-03-02,amdavad
+ORD-0574,Kavya Verma,Business Strategy,Books,4.0,518.31,2023-12-27,poona
+ORD-0407,Rahul Kapoor,Sneakers,,8.0,2900.28,2023-01-02,Delhi
+ORD-0503,Shreya Verma,Tea,Food,5.0,188.57,2023-10-05,surat
+ORD-0048,Shreya Kapoor,honey,Food,7.0,301.81,2023-10-26,Pink City
+ORD-0033,Arjun Shah,SPEAKER,Electronics,2.0,2173.79,2023-04-24,New Delhi
+ORD-0780,Arjun Malhotra,,Electronics,8.0,,2023-04-18,JAIPUR
+ORD-0840,Amit Nair,SELF HELP BOOK,Books,4.0,415.87,2023-05-07,bengaluru
+ORD-0201,Amit Joshi,Self Help Book,Books,2.0,417.04,2023-02-28,pink city
+ORD-0135,Pooja Chopra,Smartphone,Electronics,2.0,28321.82,2023-06-25,CHENNAI
+ORD-0028,Vikram Kumar,biscuits,Food,9.0,80.34,2023-04-04,Surat
+ORD-0916,Ravi Kumar,cookbook,Books,7.0,392.34,2023-07-03,pune
+ORD-0231,Vikram Shah,Jeans,Clothing,1.0,1306.13,2023-03-18,kolkata
+ORD-0490,Deepa Pillai,Sneakers,Clothing,8.0,3351.24,2023-04-22,Madras
+ORD-0773,Rahul Reddy,History Book,Books,5.0,399.71,2023-10-21,Hydrabad
+ORD-0379,Divya Pillai,Tea,Food,3.0,218.87,2023-02-16,Calcutta
+ORD-0289,Rahul Mishra,Biscuits ,Food,8.0,74.88,2023-10-19,chennai
+ORD-0419,Rajesh Mishra,Novel,,5.0,315.53,2023-09-10,Jaipur
+ORD-0675,Pooja Singh,Spices,Food,10.0,145.97,2023-01-23,AHMEDABAD
+ORD-0392,Sneha Mehta,Chips,Food,3.0,48.69,2023-01-28,Pun
+ORD-0593,Kavya Singh,Shoes,Clothing,3.0,2261.41,2023-01-21,kolkata
+ORD-0499,Suresh Pillai,Spices,Food,1.0,171.35,2023-12-30,bangalore
+ORD-0139,Rajesh Chopra,T-Shirt,Clothing,3.0,479.54,2023-03-26,hyderabad
+ORD-0063,Arjun Pillai,ART BOOK,Books,2.0,604.24,2023-03-12,Hydrabad
+ORD-0472,Aarav Chopra,Tea,Food,10.0,228.19,2023-05-21,Hyderabad
+ORD-0648,Deepa Bose,HISTORY BOOK,Books,10.0,474.18,2023-11-29,Ahmedabad
+ORD-0129,Shreya Iyer,Tablet,Electronics,4.0,15337.54,2023-11-02,Ahmadabad
+ORD-0027,Kavya Malhotra,Spices ,Food,7.0,136.49,2023-10-14,pune
+ORD-0521,Amit Mishra,Science Textbook,Books,7.0,668.36,2023-01-07,kolkata
+ORD-0839,Vikram Agarwal,wall art,Home Decor,7.0,1536.26,2023-06-10,chennai
+ORD-0111,Vikram Singh,Monitor,Electronics,3.0,14053.88,2023-05-08,JAIPUR
+ORD-0065,Aarav Singh,Photo Frame,Home Decor,2.0,373.71,2023-06-25,poona
+ORD-0813,Kavya Reddy,Wall Art,Home Decor,9.0,1331.1,2023-03-07,pink city
+ORD-0015,Neha Mishra,Juice,Food,9.0,54.27,2023-07-03,surat
+ORD-0157,Anjali Nair,HISTORY BOOK,Books,9.0,473.24,2023-05-11,MumbAI
+ORD-0041,Divya Joshi,Smartphone,Electronics,8.0,22165.29,2023-10-27,PUNE
+ORD-0493,Anjali Bose,spices,Food,2.0,139.98,2023-11-16,Kolkata
+ORD-0380,Kavya Mishra,Laptop,Electronics,10.0,51400.6,2023-11-06,Mumbai 
+ORD-0188,Pooja Chopra,PHOTO FRAME,Home Decor,10.0,406.62,2023-12-06,PUNE
+ORD-0764,Rajesh Malhotra,Monitor,Electronics,1.0,16097.76,2023-11-28,madras
+ORD-0217,Manish Chopra,Tablet,Electronics,9.0,17057.16,2023-09-12,surat
+ORD-0922,Suresh Reddy,Wall Art,Home Decor,177.0,1494.34,2023-05-16,poona
+ORD-0792,Kiran Agarwal,Clock,Home Decor,9.0,1025.87,2023-04-10,bangalore
+ORD-0053,Rajesh Mishra,Cushion,Home Decor,4.0,565.92,2023-04-10,Jaipur
+ORD-0879,,T-Shirt,Clothing,3.0,429.06,2023-01-19,Mumbai
+ORD-0338,Vikram Kumar,History Book,Books,4.0,477.49,2023-01-06,Ahmadabad
+ORD-0749,Manish Pillai,Kurta,Clothing,5.0,897.55,2023-07-22,surat 
+ORD-0720,Deepa Malhotra,tablet,Electronics,10.0,19246.68,2023-08-19,
+ORD-0725,Aarav Mehta,Monitor,Electronics,7.0,15335.13,2023-01-09,surat 
+ORD-0296,Manish Iyer,,Books,4.0,402.67,2023-11-10,JAIPUR
+ORD-0702,Amit Sharma,Mouse,Electronics,1.0,692.44,2023-12-18,surat 
+ORD-0252,Deepa Pillai,art book,Books,,,2023-03-01,Dlehi
+ORD-0727,Amit Nair,SHOES,Clothing,3.0,22298.3,2023-12-11,surat 
+ORD-0462,,TABLET,Electronics,5.0,18805.74,2023-12-03,chennai
+ORD-0456,Neha Iyer,SCIENCE TEXTBOOK,Books,6.0,648.56,2023-12-21,surat 
+ORD-0271,Arjun Pillai,Lamp,Home Decor,10.0,1311.37,2023-07-24,jaipur
+ORD-0816,,Chocolate,Food,3.0,150.85,2023-05-01,JAIPUR
+ORD-0863,Rahul Sharma,MIRROR,Home Decor,6.0,1813.17,2023-03-13,Channai
+ORD-0270,Arjun Verma,cookbook,Books,1.0,375.23,2023-07-25,Calcutta
+ORD-0202,Neha Gupta,Speaker,Electronics,4.0,2188.1,2023-02-24,Calcutta
+ORD-0162,Ananya Malhotra,Biscuits,Food,8.0,83.18,2023-01-25,ahmedabad
+ORD-0556,Arjun Reddy,Shoes ,Clothing,3.0,,2023-05-28,Pink City
+ORD-0730,Shreya Mishra,ML Handbook,Books,6.0,12.5874,2023-01-04,bengaluru
+ORD-0402,Deepa Iyer,TABLET,Electronics,1.0,20173.79,2023-08-20,amdavad
+ORD-0703,Rahul Pillai,Python Basics,Books,7.0,570.59,2023-03-20,jaipur
+ORD-0477,Arjun Patel,Science Textbook,Books,4.0,566.89,2023-03-10,delhi
+ORD-0822,Ananya Verma,Camera,Electronics,7.0,29798.64,2023-06-12,Pink City
+ORD-0772,Kavya Pillai,SUNGLASSES,Clothing,4.0,883.15,2023-01-03,Surat
+ORD-0106,Shreya Mehta,protein bar,Food,,110.97,2023-04-08,PUNE
+ORD-0566,Shreya Reddy,Art Book,Books,9.0,564.84,2023-01-28,JAIPUR
+ORD-0390,Rajesh Pillai,Cushion,Home Decor,6.0,546.03,2023-06-24,bengaluru
+ORD-0002,Ravi Joshi,Sunglasses,Clothing,3.0,908.17,2023-07-18,Banglore
+ORD-0977,Rahul Bose,Python Basics,Books,8.0,617.11,2023-04-06,MUMBAI
+ORD-0529,Priya Agarwal,Sneakers,Clothing,,2600.74,2023-01-29,MUMBAI
+ORD-0562,Deepa Sharma,Sunglasses,Clothing,2.0,731.11,2023-08-02,Bangalore
+ORD-0932,Neha Sharma,ART BOOK,Books,1.0,605.26,2023-08-21,Mumbai
+ORD-0081,Deepa Joshi,T-Shirt,Clothing,3.0,554.47,2023-08-20,Pun
+ORD-0206,Ravi Gupta,Novel,Books,1.0,255.83,2023-04-13,Dlehi
+ORD-0035,Kavya Mehta,dress,Clothing,7.0,1709.53,2023-04-25,Jaipur
+ORD-0943,Amit Pillai,Cushion ,Home Decor,1.0,522.71,2023-10-24,pink city
+ORD-0776,Kavya Reddy,Kurta,Clothing,10.0,715.98,2023-10-03,Pune
+ORD-0509,Vikram Joshi,ML Handbook,Books,10.0,794.46,2023-06-30,Surat
+ORD-0428,Aarav Mishra,Wall Art,Home Decor,3.0,1674.47,2023-07-21,SURAT
+ORD-0455,Rajesh Patel,Novel,Books,7.0,265.01,2023-04-01,pink city
+ORD-0869,Deepa Singh,Protein Bar,Food,2.0,133.02,2023-02-08,Suart
+ORD-0367,Ravi Chopra,smart watch,Electronics,4.0,,2023-06-11,amdavad
+ORD-0092,Deepa Kapoor,Plant Pot,Home Decor,9.0,372.39,2023-11-21,Surat
+ORD-0340,Sneha Reddy,laptop,Electronics,6.0,48364.26,2023-03-22,Kolkata
+ORD-0898,Neha Verma,Science Textbook,Books,4.0,727.29,2023-07-06,JAIPUR
+ORD-0565,Priya Agarwal,SMARTPHONE,Electronics,1.0,23879.41,2023-10-10,hyderabad
+ORD-0346,Suresh Sharma,sunglasses,Clothing,10.0,827.8,2023-09-09,New Delhi
+ORD-0777,Rahul Kumar,Jacket,Clothing,,1837.55,2023-10-08,ahmedabad
+ORD-0242,,Plant Pot,Home Decor,6.0,397.66,2023-08-26,Hydrabad
+ORD-0014,Ravi Sharma,Kurta,Clothing,10.0,730.96,2023-12-10,Madras
+ORD-0316,Arjun Rao,,Electronics,6.0,15881.88,2023-04-25,AHMEDABAD
+ORD-0601,Priya Patel,Speaker ,,3.0,2251.7,2023-05-11,SURAT
+ORD-0388,Vikram Mehta,Laptop,Electronics,3.0,49677.75,2023-12-10,madras
+ORD-0274,Ananya Pillai,SNEAKERS,Clothing,3.0,3371.92,2023-07-17,PUNE
+ORD-0167,Rahul Joshi,Plant Pot,Home Decor,5.0,331.18,2023-01-25,Poona
+ORD-0841,Priya Iyer,CHOCOLATE,Food,9.0,128.09,2023-04-24,HYDERABAD
+ORD-0021,Kavya Agarwal,cookies,Food,10.0,103.36,2023-04-03,surat 
+ORD-0647,Priya Pillai,Mirror,Home Decor,7.0,1850.54,2023-10-15,Ahmadabad
+ORD-0819,Sneha Pillai,SUNGLASSES,Clothing,10.0,693.14,2023-11-14,chennai
+ORD-0485,Aarav Chopra,Dress,Clothing,5.0,1537.94,2023-10-08,chennai
+ORD-0351,Neha Pillai,Kurta ,Clothing,1.0,800.75,2023-01-26,Kolkata
+ORD-0505,Shreya Shah,Handbag,Clothing,5.0,2110.84,2023-11-23,jaipur
+ORD-0832,Anjali Reddy,Camera,Electronics,6.0,34500.61,2023-10-17,kolkata
+ORD-0244,Aarav Reddy,Chocolate ,Food,10.0,144.16,2023-02-21,Bengaluru
+ORD-0567,Anjali Agarwal,Juice,Food,9.0,58.06,2023-01-07,Mumbai 
+ORD-0876,Rajesh Joshi,Python Basics ,Books,2.0,538.11,2023-07-27,Surat
+ORD-0563,Manish Nair,CHIPS,Food,6.0,44.55,2023-12-17,Kolkatta
+ORD-0994,Kiran Gupta,SAREE,Clothing,3.0,3081.21,2023-11-28,hyderabad
+ORD-0687,Shreya Joshi,Novel,Books,4.0,306.45,2023-11-17,new delhi
+ORD-0958,Suresh Shah,Protein Bar,Food,10.0,,2023-09-22,amdavad
+ORD-0190,Rahul Verma,WALL ART,Home Decor,6.0,1383.83,2023-05-19,surat
+ORD-0783,Vikram Rao,History Book,Books,7.0,416.49,2023-07-31,Chennai
+ORD-0976,Amit Rao,T-Shirt,Clothing,2.0,464.34,2023-03-18,bengaluru
+ORD-0700,Amit Malhotra,Self Help Book,Books,3.0,397.74,2023-11-28,bangalore
+ORD-0476,Ananya Iyer,HONEY,Food,5.0,344.37,2023-08-20,Poona
+ORD-0682,Priya Reddy,Monitor ,Electronics,5.0,13910.56,2023-02-19,MumbAI
+ORD-0511,Anjali Mishra,Handbag,Clothing,5.0,2068.05,2023-09-03,Poona
+ORD-0059,Amit Gupta,Mirror,Home Decor,125.0,1554.42,2023-06-02,SURAT
+ORD-0475,Kiran Shah,Wall Art,Home Decor,1.0,1512.47,2023-05-31,KOLKATA
+ORD-0561,Rajesh Reddy,Science Textbook,Books,2.0,689.8,2023-07-18,Amdavad
+ORD-0857,Sneha Rao,Tea,Food,1.0,172.19,2023-02-25,poona
+ORD-0748,Pooja Malhotra,LAMP,Home Decor,5.0,1215.68,2023-07-15,Pun
+ORD-0253,,Chips,Food,7.0,55.27,2023-02-18,PUNE
+ORD-0022,Ravi Patel,Jacket,Clothing,5.0,1783.7,2023-05-31,delhi
+ORD-0314,Ravi Kapoor,handbag,Clothing,9.0,2277.59,2023-10-23,CHENNAI
+ORD-0460,Shreya Kumar,Smart Watch,Electronics,2.0,7085.16,2023-02-23,BANGALORE
+ORD-0161,Aarav Bose,Sneakers,Clothing,6.0,2881.0,2023-11-01,SURAT
+ORD-0277,Shreya Bose,DRESS,Clothing,8.0,1634.23,2023-08-04,jaipur
+ORD-0956,Arjun Gupta,juice,Food,4.0,57.9,2023-07-12,SURAT
+ORD-0192,Kavya Malhotra,Clock,Home Decor,,1119.16,2023-11-07,Chennai
+ORD-0386,Suresh Singh,Photo Frame,Home Decor,5.0,8.7284,2023-04-16,Dlehi
+ORD-0806,Amit Agarwal,Sunglasses,Clothing,1.0,856.75,2023-05-09,HYDERABAD
+ORD-0414,Pooja Agarwal,Cookies,Food,1.0,102.2,2023-07-11,MumbAI
+ORD-0492,Shreya Iyer,Art Book,Books,4.0,569.82,2023-04-18,bangalore
+ORD-0344,Pooja Shah,Mouse,Electronics,7.0,784.12,2023-03-26,mumbai
+ORD-0770,Deepa Nair,laptop,Electronics,6.0,60300.75,2023-03-05,surat 
+ORD-0309,Manish Malhotra,Smartphone,Electronics,8.0,27213.9,2023-06-10,hyderabad
+ORD-0662,Ananya Mishra,Plant Pot,Home Decor,1.0,401.08,2023-07-15,Ahmadabad
+ORD-0131,Priya Gupta,Shoes,Clothing,1.0,2438.06,2023-06-22,Mumabi
+ORD-0664,Divya Mehta,JEANS,Clothing,10.0,1105.4,2023-07-17,Jaipur 
+ORD-0872,Arjun Kumar,ML Handbook,Books,4.0,651.86,2023-11-20,calcutta
+ORD-0088,Neha Nair,Keyboard,Electronics,1.0,1561.9,2023-02-15,Surat
+ORD-0331,Kavya Gupta,Chips,Food,2.0,47.84,2023-12-13,Madras
+ORD-0467,Divya Patel,Data Science Guide,Books,4.0,748.57,2023-07-16,Dlehi
+ORD-0122,Ravi Bose,Monitor,Electronics,5.0,16782.41,2023-03-27,HYDERABAD
+ORD-0861,Shreya Bose,Science Textbook,Books,3.0,703.73,2023-02-11,Amdavad
